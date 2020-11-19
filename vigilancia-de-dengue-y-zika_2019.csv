@@ -1,0 +1,1487 @@
+﻿"departamento_id","departamento_nombre","provincia_id","provincia_nombre","año","semanas_epidemiologicas","evento_nombre","grupo_edad_id","grupo_edad_desc","cantidad_casos"
+0,"*sin dato*",6,"Buenos Aires",2018,11,"Dengue",10,"De 45 a 64 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,7,"Dengue",8,"De 20 a 24 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,7,"Dengue",10,"De 45 a 64 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,9,"Dengue",6,"De 10 a 14 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,9,"Dengue",8,"De 20 a 24 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,9,"Dengue",9,"De 25 a 34 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,10,"Dengue",8,"De 20 a 24 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,10,"Dengue",10,"De 45 a 64 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,11,"Dengue",6,"De 10 a 14 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,11,"Dengue",8,"De 20 a 24 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,11,"Dengue",9,"De 25 a 34 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,11,"Dengue",10,"De 45 a 64 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,12,"Dengue",6,"De 10 a 14 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,12,"Dengue",10,"De 35 a 44 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,13,"Dengue",9,"De 25 a 34 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,13,"Dengue",10,"De 35 a 44 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,13,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",5,"De 5 a 9 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",6,"De 10 a 14 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",8,"De 20 a 24 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",9,"De 25 a 34 años",3
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",10,"De 35 a 44 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,14,"Dengue",10,"De 45 a 64 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,15,"Dengue",5,"De 5 a 9 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,15,"Dengue",9,"De 25 a 34 años",3
+35,"Avellaneda",6,"Buenos Aires",2018,15,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,16,"Dengue",6,"De 10 a 14 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,16,"Dengue",8,"De 20 a 24 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,16,"Dengue",9,"De 25 a 34 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,16,"Dengue",10,"De 35 a 44 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,17,"Dengue",4,"De 2 a 4 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,17,"Dengue",7,"De 15 a 19 años",3
+35,"Avellaneda",6,"Buenos Aires",2018,18,"Dengue",7,"De 15 a 19 años",1
+35,"Avellaneda",6,"Buenos Aires",2018,18,"Dengue",9,"De 25 a 34 años",3
+35,"Avellaneda",6,"Buenos Aires",2018,19,"Dengue",6,"De 10 a 14 años",2
+35,"Avellaneda",6,"Buenos Aires",2018,19,"Dengue",8,"De 20 a 24 años",1
+91,"Berazategui",6,"Buenos Aires",2018,11,"Dengue",8,"De 20 a 24 años",1
+91,"Berazategui",6,"Buenos Aires",2018,14,"Dengue",9,"De 25 a 34 años",2
+270,"Ezeiza",6,"Buenos Aires",2018,11,"Dengue",10,"De 35 a 44 años",1
+270,"Ezeiza",6,"Buenos Aires",2018,13,"Dengue",9,"De 25 a 34 años",1
+274,"Florencio Varela",6,"Buenos Aires",2018,10,"Dengue",7,"De 15 a 19 años",1
+371,"General San Martín",6,"Buenos Aires",2018,11,"Dengue",7,"De 15 a 19 años",1
+410,"Ituzaingó",6,"Buenos Aires",2018,11,"Dengue",10,"De 45 a 64 años",1
+427,"La Matanza",6,"Buenos Aires",2018,9,"Dengue",9,"De 25 a 34 años",1
+427,"La Matanza",6,"Buenos Aires",2018,9,"Dengue",11,"Mayor o igual de 65 años",1
+427,"La Matanza",6,"Buenos Aires",2018,12,"Dengue",6,"De 10 a 14 años",1
+427,"La Matanza",6,"Buenos Aires",2018,12,"Dengue",8,"De 20 a 24 años",1
+427,"La Matanza",6,"Buenos Aires",2018,12,"Dengue",10,"De 45 a 64 años",1
+427,"La Matanza",6,"Buenos Aires",2018,13,"Dengue",8,"De 20 a 24 años",1
+427,"La Matanza",6,"Buenos Aires",2018,13,"Dengue",9,"De 25 a 34 años",1
+427,"La Matanza",6,"Buenos Aires",2018,13,"Dengue",10,"De 35 a 44 años",1
+427,"La Matanza",6,"Buenos Aires",2018,13,"Dengue",10,"De 45 a 64 años",2
+427,"La Matanza",6,"Buenos Aires",2018,14,"Dengue",9,"De 25 a 34 años",2
+427,"La Matanza",6,"Buenos Aires",2018,14,"Dengue",10,"De 45 a 64 años",2
+427,"La Matanza",6,"Buenos Aires",2018,14,"Dengue",11,"Mayor o igual de 65 años",1
+427,"La Matanza",6,"Buenos Aires",2018,15,"Dengue",10,"De 45 a 64 años",1
+427,"La Matanza",6,"Buenos Aires",2018,16,"Dengue",5,"De 5 a 9 años",1
+427,"La Matanza",6,"Buenos Aires",2018,16,"Dengue",6,"De 10 a 14 años",1
+427,"La Matanza",6,"Buenos Aires",2018,16,"Dengue",9,"De 25 a 34 años",1
+427,"La Matanza",6,"Buenos Aires",2018,16,"Dengue",10,"De 35 a 44 años",1
+427,"La Matanza",6,"Buenos Aires",2018,17,"Dengue",9,"De 25 a 34 años",4
+427,"La Matanza",6,"Buenos Aires",2018,17,"Dengue",11,"Mayor o igual de 65 años",2
+427,"La Matanza",6,"Buenos Aires",2018,18,"Dengue",9,"De 25 a 34 años",1
+427,"La Matanza",6,"Buenos Aires",2018,18,"Dengue",10,"De 45 a 64 años",1
+427,"La Matanza",6,"Buenos Aires",2018,18,"Dengue",11,"Mayor o igual de 65 años",1
+427,"La Matanza",6,"Buenos Aires",2018,21,"Dengue",8,"De 20 a 24 años",1
+427,"La Matanza",6,"Buenos Aires",2018,21,"Dengue",9,"De 25 a 34 años",1
+434,"Lanús",6,"Buenos Aires",2018,10,"Dengue",9,"De 25 a 34 años",1
+434,"Lanús",6,"Buenos Aires",2018,10,"Dengue",10,"De 45 a 64 años",1
+434,"Lanús",6,"Buenos Aires",2018,14,"Dengue",6,"De 10 a 14 años",1
+434,"Lanús",6,"Buenos Aires",2018,14,"Dengue",10,"De 35 a 44 años",1
+434,"Lanús",6,"Buenos Aires",2018,15,"Dengue",10,"De 35 a 44 años",1
+434,"Lanús",6,"Buenos Aires",2018,16,"Dengue",9,"De 25 a 34 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,11,"Dengue",9,"De 25 a 34 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,11,"Dengue",10,"De 45 a 64 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,12,"Dengue",9,"De 25 a 34 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,14,"Dengue",7,"De 15 a 19 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,15,"Dengue",6,"De 10 a 14 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,15,"Dengue",10,"De 45 a 64 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,17,"Dengue",6,"De 10 a 14 años",2
+490,"Lomas de Zamora",6,"Buenos Aires",2018,18,"Dengue",10,"De 45 a 64 años",1
+490,"Lomas de Zamora",6,"Buenos Aires",2018,20,"Dengue",9,"De 25 a 34 años",1
+539,"Merlo",6,"Buenos Aires",2018,10,"Dengue",5,"De 5 a 9 años",1
+539,"Merlo",6,"Buenos Aires",2018,10,"Dengue",10,"De 35 a 44 años",1
+539,"Merlo",6,"Buenos Aires",2018,14,"Dengue",10,"De 35 a 44 años",1
+568,"Morón",6,"Buenos Aires",2018,9,"Dengue",10,"De 35 a 44 años",1
+568,"Morón",6,"Buenos Aires",2018,10,"Dengue",10,"De 35 a 44 años",2
+568,"Morón",6,"Buenos Aires",2018,10,"Dengue",10,"De 45 a 64 años",1
+568,"Morón",6,"Buenos Aires",2018,11,"Dengue",8,"De 20 a 24 años",1
+568,"Morón",6,"Buenos Aires",2018,15,"Dengue",8,"De 20 a 24 años",1
+568,"Morón",6,"Buenos Aires",2018,18,"Dengue",11,"Mayor o igual de 65 años",1
+658,"Quilmes",6,"Buenos Aires",2018,8,"Dengue",9,"De 25 a 34 años",1
+658,"Quilmes",6,"Buenos Aires",2018,11,"Dengue",9,"De 25 a 34 años",1
+658,"Quilmes",6,"Buenos Aires",2018,12,"Dengue",9,"De 25 a 34 años",1
+658,"Quilmes",6,"Buenos Aires",2018,12,"Dengue",10,"De 45 a 64 años",1
+658,"Quilmes",6,"Buenos Aires",2018,14,"Dengue",8,"De 20 a 24 años",2
+658,"Quilmes",6,"Buenos Aires",2018,14,"Dengue",10,"De 35 a 44 años",1
+658,"Quilmes",6,"Buenos Aires",2018,15,"Dengue",8,"De 20 a 24 años",2
+658,"Quilmes",6,"Buenos Aires",2018,15,"Dengue",9,"De 25 a 34 años",3
+658,"Quilmes",6,"Buenos Aires",2018,15,"Dengue",10,"De 45 a 64 años",1
+658,"Quilmes",6,"Buenos Aires",2018,16,"Dengue",9,"De 25 a 34 años",2
+658,"Quilmes",6,"Buenos Aires",2018,16,"Dengue",10,"De 45 a 64 años",1
+658,"Quilmes",6,"Buenos Aires",2018,17,"Dengue",10,"De 45 a 64 años",1
+658,"Quilmes",6,"Buenos Aires",2018,18,"Dengue",7,"De 15 a 19 años",2
+658,"Quilmes",6,"Buenos Aires",2018,18,"Dengue",8,"De 20 a 24 años",1
+658,"Quilmes",6,"Buenos Aires",2018,19,"Dengue",5,"De 5 a 9 años",1
+658,"Quilmes",6,"Buenos Aires",2018,19,"Dengue",9,"De 25 a 34 años",1
+658,"Quilmes",6,"Buenos Aires",2018,19,"Dengue",11,"Mayor o igual de 65 años",1
+658,"Quilmes",6,"Buenos Aires",2018,20,"Dengue",7,"De 15 a 19 años",1
+658,"Quilmes",6,"Buenos Aires",2018,21,"Dengue",10,"De 45 a 64 años",2
+760,"San Miguel",6,"Buenos Aires",2018,18,"Dengue",10,"De 45 a 64 años",1
+840,"Tres de Febrero",6,"Buenos Aires",2018,15,"Dengue",8,"De 20 a 24 años",1
+840,"Tres de Febrero",6,"Buenos Aires",2018,18,"Dengue",7,"De 15 a 19 años",1
+840,"Tres de Febrero",6,"Buenos Aires",2018,19,"Dengue",8,"De 20 a 24 años",1
+840,"Tres de Febrero",6,"Buenos Aires",2018,19,"Dengue",10,"De 45 a 64 años",1
+840,"Tres de Febrero",6,"Buenos Aires",2018,20,"Dengue",9,"De 25 a 34 años",1
+861,"Vicente López",6,"Buenos Aires",2018,14,"Dengue",6,"De 10 a 14 años",1
+0,"*sin dato*",2,"CABA",2018,13,"Dengue",10,"De 45 a 64 años",1
+0,"*sin dato*",2,"CABA",2018,14,"Dengue",10,"De 35 a 44 años",1
+0,"*sin dato*",2,"CABA",2018,15,"Dengue",10,"De 35 a 44 años",1
+0,"*sin dato*",2,"CABA",2018,18,"Dengue",9,"De 25 a 34 años",1
+1,"COMUNA 1",2,"CABA",2018,16,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 1",2,"CABA",2018,17,"Dengue",9,"De 25 a 34 años",1
+10,"COMUNA 10",2,"CABA",2018,16,"Dengue",4,"De 2 a 4 años",1
+10,"COMUNA 10",2,"CABA",2018,18,"Dengue",6,"De 10 a 14 años",1
+12,"COMUNA 12",2,"CABA",2018,11,"Dengue",8,"De 20 a 24 años",1
+12,"COMUNA 12",2,"CABA",2018,11,"Dengue",10,"De 45 a 64 años",1
+12,"COMUNA 12",2,"CABA",2018,13,"Dengue",10,"De 45 a 64 años",1
+12,"COMUNA 12",2,"CABA",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+15,"COMUNA 15",2,"CABA",2018,9,"Dengue",10,"De 35 a 44 años",1
+15,"COMUNA 15",2,"CABA",2018,12,"Dengue",10,"De 45 a 64 años",1
+15,"COMUNA 15",2,"CABA",2018,15,"Dengue",10,"De 45 a 64 años",1
+2,"COMUNA 2",2,"CABA",2018,10,"Dengue",10,"De 35 a 44 años",1
+3,"COMUNA 3",2,"CABA",2018,8,"Dengue",10,"De 35 a 44 años",1
+3,"COMUNA 3",2,"CABA",2018,9,"Dengue",9,"De 25 a 34 años",1
+3,"COMUNA 3",2,"CABA",2018,9,"Dengue",10,"De 45 a 64 años",2
+3,"COMUNA 3",2,"CABA",2018,10,"Dengue",8,"De 20 a 24 años",1
+3,"COMUNA 3",2,"CABA",2018,11,"Dengue",10,"De 45 a 64 años",2
+3,"COMUNA 3",2,"CABA",2018,12,"Dengue",10,"De 35 a 44 años",2
+3,"COMUNA 3",2,"CABA",2018,12,"Dengue",10,"De 45 a 64 años",2
+3,"COMUNA 3",2,"CABA",2018,13,"Dengue",10,"De 45 a 64 años",1
+3,"COMUNA 3",2,"CABA",2018,14,"Dengue",8,"De 20 a 24 años",1
+3,"COMUNA 3",2,"CABA",2018,15,"Dengue",6,"De 10 a 14 años",1
+3,"COMUNA 3",2,"CABA",2018,15,"Dengue",11,"Mayor o igual de 65 años",1
+3,"COMUNA 3",2,"CABA",2018,16,"Dengue",5,"De 5 a 9 años",3
+3,"COMUNA 3",2,"CABA",2018,17,"Dengue",8,"De 20 a 24 años",1
+3,"COMUNA 3",2,"CABA",2018,18,"Dengue",11,"Mayor o igual de 65 años",1
+4,"COMUNA 4",2,"CABA",2018,6,"Dengue",5,"De 5 a 9 años",1
+4,"COMUNA 4",2,"CABA",2018,6,"Dengue",6,"De 10 a 14 años",1
+4,"COMUNA 4",2,"CABA",2018,8,"Dengue",9,"De 25 a 34 años",1
+4,"COMUNA 4",2,"CABA",2018,8,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2018,9,"Dengue",10,"De 45 a 64 años",1
+4,"COMUNA 4",2,"CABA",2018,10,"Dengue",7,"De 15 a 19 años",1
+4,"COMUNA 4",2,"CABA",2018,10,"Dengue",9,"De 25 a 34 años",1
+4,"COMUNA 4",2,"CABA",2018,10,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2018,11,"Dengue",7,"De 15 a 19 años",1
+4,"COMUNA 4",2,"CABA",2018,12,"Dengue",8,"De 20 a 24 años",1
+4,"COMUNA 4",2,"CABA",2018,12,"Dengue",9,"De 25 a 34 años",2
+4,"COMUNA 4",2,"CABA",2018,12,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2018,13,"Dengue",7,"De 15 a 19 años",4
+4,"COMUNA 4",2,"CABA",2018,13,"Dengue",10,"De 45 a 64 años",1
+4,"COMUNA 4",2,"CABA",2018,14,"Dengue",6,"De 10 a 14 años",1
+4,"COMUNA 4",2,"CABA",2018,14,"Dengue",7,"De 15 a 19 años",1
+4,"COMUNA 4",2,"CABA",2018,14,"Dengue",10,"De 35 a 44 años",3
+4,"COMUNA 4",2,"CABA",2018,14,"Dengue",10,"De 45 a 64 años",1
+4,"COMUNA 4",2,"CABA",2018,15,"Dengue",7,"De 15 a 19 años",1
+4,"COMUNA 4",2,"CABA",2018,15,"Dengue",8,"De 20 a 24 años",2
+4,"COMUNA 4",2,"CABA",2018,15,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2018,15,"Dengue",10,"De 45 a 64 años",1
+4,"COMUNA 4",2,"CABA",2018,15,"Dengue",11,"Mayor o igual de 65 años",1
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",5,"De 5 a 9 años",3
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",6,"De 10 a 14 años",1
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",7,"De 15 a 19 años",2
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",10,"De 45 a 64 años",3
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",11,"Mayor o igual de 65 años",1
+4,"COMUNA 4",2,"CABA",2018,16,"Dengue",2,"Igual a 1 año",1
+4,"COMUNA 4",2,"CABA",2018,17,"Dengue",5,"De 5 a 9 años",1
+4,"COMUNA 4",2,"CABA",2018,17,"Dengue",6,"De 10 a 14 años",1
+4,"COMUNA 4",2,"CABA",2018,17,"Dengue",8,"De 20 a 24 años",1
+4,"COMUNA 4",2,"CABA",2018,17,"Dengue",9,"De 25 a 34 años",3
+4,"COMUNA 4",2,"CABA",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+4,"COMUNA 4",2,"CABA",2018,18,"Dengue",6,"De 10 a 14 años",4
+4,"COMUNA 4",2,"CABA",2018,18,"Dengue",8,"De 20 a 24 años",3
+4,"COMUNA 4",2,"CABA",2018,18,"Dengue",9,"De 25 a 34 años",2
+4,"COMUNA 4",2,"CABA",2018,18,"Dengue",10,"De 45 a 64 años",3
+4,"COMUNA 4",2,"CABA",2018,18,"Dengue",11,"Mayor o igual de 65 años",1
+4,"COMUNA 4",2,"CABA",2018,19,"Dengue",5,"De 5 a 9 años",1
+4,"COMUNA 4",2,"CABA",2018,19,"Dengue",8,"De 20 a 24 años",1
+4,"COMUNA 4",2,"CABA",2018,19,"Dengue",10,"De 45 a 64 años",2
+4,"COMUNA 4",2,"CABA",2018,21,"Dengue",11,"Mayor o igual de 65 años",2
+4,"COMUNA 4",2,"CABA",2018,24,"Dengue",6,"De 10 a 14 años",1
+5,"COMUNA 5",2,"CABA",2018,11,"Dengue",10,"De 35 a 44 años",1
+6,"COMUNA 6",2,"CABA",2018,13,"Dengue",10,"De 45 a 64 años",1
+7,"COMUNA 7",2,"CABA",2018,18,"Dengue",10,"De 45 a 64 años",1
+8,"COMUNA 8",2,"CABA",2018,12,"Dengue",1,"Menor que 1 año",1
+8,"COMUNA 8",2,"CABA",2018,15,"Dengue",10,"De 35 a 44 años",1
+8,"COMUNA 8",2,"CABA",2018,18,"Dengue",6,"De 10 a 14 años",1
+9,"COMUNA 9",2,"CABA",2018,18,"Dengue",10,"De 45 a 64 años",1
+39,"2 de Abril",22,"Chaco",2018,4,"Dengue",9,"De 25 a 34 años",1
+39,"2 de Abril",22,"Chaco",2018,12,"Dengue",9,"De 25 a 34 años",1
+39,"2 de Abril",22,"Chaco",2018,14,"Dengue",9,"De 25 a 34 años",2
+39,"2 de Abril",22,"Chaco",2018,14,"Dengue",10,"De 45 a 64 años",1
+39,"2 de Abril",22,"Chaco",2018,15,"Dengue",10,"De 45 a 64 años",1
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",4,"De 2 a 4 años",2
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",5,"De 5 a 9 años",4
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",6,"De 10 a 14 años",1
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",7,"De 15 a 19 años",6
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",8,"De 20 a 24 años",6
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",9,"De 25 a 34 años",6
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",10,"De 35 a 44 años",2
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",10,"De 45 a 64 años",9
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",11,"Mayor o igual de 65 años",5
+39,"2 de Abril",22,"Chaco",2018,16,"Dengue",12,"Sin Especificar",1
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",5,"De 5 a 9 años",1
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",6,"De 10 a 14 años",2
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",7,"De 15 a 19 años",5
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",8,"De 20 a 24 años",5
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",9,"De 25 a 34 años",6
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",10,"De 35 a 44 años",1
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",10,"De 45 a 64 años",8
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",11,"Mayor o igual de 65 años",10
+39,"2 de Abril",22,"Chaco",2018,17,"Dengue",12,"Sin Especificar",3
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",5,"De 5 a 9 años",4
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",6,"De 10 a 14 años",1
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",7,"De 15 a 19 años",5
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",8,"De 20 a 24 años",2
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",9,"De 25 a 34 años",9
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",10,"De 45 a 64 años",8
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",11,"Mayor o igual de 65 años",7
+39,"2 de Abril",22,"Chaco",2018,18,"Dengue",12,"Sin Especificar",4
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",3,"De 13 a 24 meses",1
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",4,"De 2 a 4 años",1
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",5,"De 5 a 9 años",1
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",6,"De 10 a 14 años",4
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",7
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",5
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",9,"De 25 a 34 años",9
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",10,"De 45 a 64 años",10
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",11,"Mayor o igual de 65 años",9
+39,"2 de Abril",22,"Chaco",2018,19,"Dengue",12,"Sin Especificar",1
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",4,"De 2 a 4 años",4
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",5,"De 5 a 9 años",1
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",6,"De 10 a 14 años",2
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",7,"De 15 a 19 años",4
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",8,"De 20 a 24 años",4
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",9,"De 25 a 34 años",4
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",2
+39,"2 de Abril",22,"Chaco",2018,20,"Dengue",11,"Mayor o igual de 65 años",3
+39,"2 de Abril",22,"Chaco",2018,21,"Dengue",9,"De 25 a 34 años",3
+39,"2 de Abril",22,"Chaco",2018,21,"Dengue",11,"Mayor o igual de 65 años",1
+39,"2 de Abril",22,"Chaco",2018,22,"Dengue",7,"De 15 a 19 años",1
+39,"2 de Abril",22,"Chaco",2018,22,"Dengue",9,"De 25 a 34 años",3
+105,"9 de Julio",22,"Chaco",2018,16,"Dengue",6,"De 10 a 14 años",1
+105,"9 de Julio",22,"Chaco",2018,19,"Dengue",11,"Mayor o igual de 65 años",2
+14,"Bermejo",22,"Chaco",2018,13,"Dengue",5,"De 5 a 9 años",1
+14,"Bermejo",22,"Chaco",2018,14,"Dengue",10,"De 45 a 64 años",2
+14,"Bermejo",22,"Chaco",2018,17,"Dengue",9,"De 25 a 34 años",1
+14,"Bermejo",22,"Chaco",2018,18,"Dengue",5,"De 5 a 9 años",1
+28,"CHACABUCO",22,"Chaco",2018,12,"Dengue",10,"De 35 a 44 años",4
+28,"CHACABUCO",22,"Chaco",2018,12,"Dengue",10,"De 45 a 64 años",1
+28,"CHACABUCO",22,"Chaco",2018,13,"Dengue",6,"De 10 a 14 años",1
+28,"CHACABUCO",22,"Chaco",2018,13,"Dengue",7,"De 15 a 19 años",1
+28,"CHACABUCO",22,"Chaco",2018,13,"Dengue",9,"De 25 a 34 años",3
+28,"CHACABUCO",22,"Chaco",2018,13,"Dengue",10,"De 35 a 44 años",1
+28,"CHACABUCO",22,"Chaco",2018,13,"Dengue",10,"De 45 a 64 años",6
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",5,"De 5 a 9 años",1
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",6,"De 10 a 14 años",1
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",7,"De 15 a 19 años",2
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",8,"De 20 a 24 años",3
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",9,"De 25 a 34 años",1
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",10,"De 35 a 44 años",2
+28,"CHACABUCO",22,"Chaco",2018,14,"Dengue",10,"De 45 a 64 años",2
+28,"CHACABUCO",22,"Chaco",2018,15,"Dengue",8,"De 20 a 24 años",1
+28,"CHACABUCO",22,"Chaco",2018,15,"Dengue",9,"De 25 a 34 años",1
+28,"CHACABUCO",22,"Chaco",2018,15,"Dengue",10,"De 35 a 44 años",3
+28,"CHACABUCO",22,"Chaco",2018,15,"Dengue",10,"De 45 a 64 años",2
+28,"CHACABUCO",22,"Chaco",2018,16,"Dengue",7,"De 15 a 19 años",1
+28,"CHACABUCO",22,"Chaco",2018,16,"Dengue",8,"De 20 a 24 años",1
+28,"CHACABUCO",22,"Chaco",2018,16,"Dengue",9,"De 25 a 34 años",3
+28,"CHACABUCO",22,"Chaco",2018,16,"Dengue",10,"De 35 a 44 años",2
+28,"CHACABUCO",22,"Chaco",2018,16,"Dengue",10,"De 45 a 64 años",1
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",4,"De 2 a 4 años",1
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",5,"De 5 a 9 años",1
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",6,"De 10 a 14 años",1
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",7,"De 15 a 19 años",7
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",8,"De 20 a 24 años",4
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",9,"De 25 a 34 años",2
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",10,"De 35 a 44 años",2
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",10,"De 45 a 64 años",4
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",11,"Mayor o igual de 65 años",4
+28,"CHACABUCO",22,"Chaco",2018,17,"Dengue",12,"Sin Especificar",1
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",6,"De 10 a 14 años",3
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",7,"De 15 a 19 años",6
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",8,"De 20 a 24 años",1
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",9,"De 25 a 34 años",5
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",10,"De 45 a 64 años",3
+28,"CHACABUCO",22,"Chaco",2018,18,"Dengue",11,"Mayor o igual de 65 años",8
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",5,"De 5 a 9 años",2
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",6,"De 10 a 14 años",5
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",10
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",5
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",9,"De 25 a 34 años",8
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",10,"De 45 a 64 años",3
+28,"CHACABUCO",22,"Chaco",2018,19,"Dengue",11,"Mayor o igual de 65 años",5
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",3,"De 13 a 24 meses",1
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",5,"De 5 a 9 años",3
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",6,"De 10 a 14 años",2
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",7,"De 15 a 19 años",2
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",8,"De 20 a 24 años",3
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",9,"De 25 a 34 años",1
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",3
+28,"CHACABUCO",22,"Chaco",2018,20,"Dengue",11,"Mayor o igual de 65 años",3
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",6,"De 10 a 14 años",1
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",7,"De 15 a 19 años",3
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",8,"De 20 a 24 años",1
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",9,"De 25 a 34 años",1
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",10,"De 45 a 64 años",2
+28,"CHACABUCO",22,"Chaco",2018,21,"Dengue",11,"Mayor o igual de 65 años",2
+28,"CHACABUCO",22,"Chaco",2018,22,"Dengue",6,"De 10 a 14 años",1
+28,"CHACABUCO",22,"Chaco",2018,22,"Dengue",7,"De 15 a 19 años",3
+28,"CHACABUCO",22,"Chaco",2018,22,"Dengue",11,"Mayor o igual de 65 años",1
+28,"CHACABUCO",22,"Chaco",2018,23,"Dengue",7,"De 15 a 19 años",2
+28,"CHACABUCO",22,"Chaco",2018,23,"Dengue",9,"De 25 a 34 años",1
+28,"CHACABUCO",22,"Chaco",2018,23,"Dengue",10,"De 45 a 64 años",1
+21,"Comandante Fernández",22,"Chaco",2018,13,"Dengue",9,"De 25 a 34 años",1
+21,"Comandante Fernández",22,"Chaco",2018,15,"Dengue",10,"De 45 a 64 años",1
+21,"Comandante Fernández",22,"Chaco",2018,18,"Dengue",7,"De 15 a 19 años",1
+21,"Comandante Fernández",22,"Chaco",2018,27,"Dengue",9,"De 25 a 34 años",1
+43,"Fray Justo Santa María de Oro",22,"Chaco",2018,16,"Dengue",8,"De 20 a 24 años",1
+43,"Fray Justo Santa María de Oro",22,"Chaco",2018,16,"Dengue",11,"Mayor o igual de 65 años",1
+49,"General Belgrano",22,"Chaco",2018,17,"Dengue",7,"De 15 a 19 años",1
+49,"General Belgrano",22,"Chaco",2018,17,"Dengue",10,"De 45 a 64 años",1
+49,"General Belgrano",22,"Chaco",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+49,"General Belgrano",22,"Chaco",2018,18,"Dengue",8,"De 20 a 24 años",2
+49,"General Belgrano",22,"Chaco",2018,18,"Dengue",9,"De 25 a 34 años",2
+49,"General Belgrano",22,"Chaco",2018,18,"Dengue",11,"Mayor o igual de 65 años",2
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",4,"De 2 a 4 años",1
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",5,"De 5 a 9 años",3
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",6,"De 10 a 14 años",1
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",4
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",6
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",9,"De 25 a 34 años",3
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",10,"De 45 a 64 años",8
+49,"General Belgrano",22,"Chaco",2018,19,"Dengue",11,"Mayor o igual de 65 años",6
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",4,"De 2 a 4 años",1
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",5,"De 5 a 9 años",3
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",6,"De 10 a 14 años",9
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",7,"De 15 a 19 años",6
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",8,"De 20 a 24 años",3
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",9,"De 25 a 34 años",7
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",13
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",11,"Mayor o igual de 65 años",6
+49,"General Belgrano",22,"Chaco",2018,20,"Dengue",12,"Sin Especificar",1
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",1,"Menor que 1 año",1
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",5,"De 5 a 9 años",1
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",7,"De 15 a 19 años",4
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",8,"De 20 a 24 años",1
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",9,"De 25 a 34 años",3
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",10,"De 45 a 64 años",2
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",11,"Mayor o igual de 65 años",2
+49,"General Belgrano",22,"Chaco",2018,21,"Dengue",12,"Sin Especificar",1
+49,"General Belgrano",22,"Chaco",2018,22,"Dengue",5,"De 5 a 9 años",1
+49,"General Belgrano",22,"Chaco",2018,22,"Dengue",7,"De 15 a 19 años",1
+49,"General Belgrano",22,"Chaco",2018,22,"Dengue",9,"De 25 a 34 años",1
+49,"General Belgrano",22,"Chaco",2018,22,"Dengue",10,"De 45 a 64 años",1
+49,"General Belgrano",22,"Chaco",2018,22,"Dengue",11,"Mayor o igual de 65 años",1
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",6,"De 10 a 14 años",2
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",7,"De 15 a 19 años",2
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",8,"De 20 a 24 años",4
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",9,"De 25 a 34 años",1
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",10,"De 45 a 64 años",1
+49,"General Belgrano",22,"Chaco",2018,23,"Dengue",11,"Mayor o igual de 65 años",1
+63,"General Güemes",22,"Chaco",2018,15,"Dengue",8,"De 20 a 24 años",1
+63,"General Güemes",22,"Chaco",2018,15,"Dengue",9,"De 25 a 34 años",1
+63,"General Güemes",22,"Chaco",2018,16,"Dengue",9,"De 25 a 34 años",1
+70,"Independencia",22,"Chaco",2018,15,"Dengue",10,"De 35 a 44 años",1
+70,"Independencia",22,"Chaco",2018,17,"Dengue",8,"De 20 a 24 años",1
+70,"Independencia",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,18,"Dengue",7,"De 15 a 19 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,19,"Dengue",9,"De 25 a 34 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,20,"Dengue",8,"De 20 a 24 años",3
+84,"Libertador General San Martín",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,21,"Dengue",7,"De 15 a 19 años",1
+84,"Libertador General San Martín",22,"Chaco",2018,21,"Dengue",8,"De 20 a 24 años",1
+98,"Mayor Luis J. Fontana",22,"Chaco",2018,19,"Dengue",5,"De 5 a 9 años",1
+112,"O'Higgins",22,"Chaco",2018,17,"Dengue",9,"De 25 a 34 años",1
+112,"O'Higgins",22,"Chaco",2018,18,"Dengue",7,"De 15 a 19 años",1
+112,"O'Higgins",22,"Chaco",2018,18,"Dengue",8,"De 20 a 24 años",1
+112,"O'Higgins",22,"Chaco",2018,18,"Dengue",9,"De 25 a 34 años",1
+112,"O'Higgins",22,"Chaco",2018,18,"Dengue",11,"Mayor o igual de 65 años",2
+112,"O'Higgins",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",1
+112,"O'Higgins",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",1
+112,"O'Higgins",22,"Chaco",2018,19,"Dengue",9,"De 25 a 34 años",3
+112,"O'Higgins",22,"Chaco",2018,19,"Dengue",10,"De 45 a 64 años",3
+112,"O'Higgins",22,"Chaco",2018,19,"Dengue",11,"Mayor o igual de 65 años",2
+112,"O'Higgins",22,"Chaco",2018,20,"Dengue",7,"De 15 a 19 años",1
+112,"O'Higgins",22,"Chaco",2018,20,"Dengue",9,"De 25 a 34 años",1
+112,"O'Higgins",22,"Chaco",2018,21,"Dengue",7,"De 15 a 19 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,10,"Dengue",10,"De 45 a 64 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,11,"Dengue",9,"De 25 a 34 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,12,"Dengue",9,"De 25 a 34 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,15,"Dengue",10,"De 35 a 44 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,16,"Dengue",8,"De 20 a 24 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,16,"Dengue",10,"De 45 a 64 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,17,"Dengue",10,"De 45 a 64 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,18,"Dengue",6,"De 10 a 14 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,18,"Dengue",10,"De 45 a 64 años",2
+140,"SAN FERNANDO",22,"Chaco",2018,18,"Dengue",12,"Sin Especificar",1
+140,"SAN FERNANDO",22,"Chaco",2018,19,"Dengue",6,"De 10 a 14 años",2
+140,"SAN FERNANDO",22,"Chaco",2018,19,"Dengue",7,"De 15 a 19 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,19,"Dengue",8,"De 20 a 24 años",2
+140,"SAN FERNANDO",22,"Chaco",2018,20,"Dengue",6,"De 10 a 14 años",2
+140,"SAN FERNANDO",22,"Chaco",2018,20,"Dengue",8,"De 20 a 24 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,20,"Dengue",9,"De 25 a 34 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,20,"Dengue",10,"De 45 a 64 años",2
+140,"SAN FERNANDO",22,"Chaco",2018,20,"Dengue",11,"Mayor o igual de 65 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,21,"Dengue",10,"De 45 a 64 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,21,"Dengue",11,"Mayor o igual de 65 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,21,"Dengue",12,"Sin Especificar",1
+140,"SAN FERNANDO",22,"Chaco",2018,22,"Dengue",7,"De 15 a 19 años",1
+140,"SAN FERNANDO",22,"Chaco",2018,22,"Dengue",10,"De 45 a 64 años",1
+14,"Capital",14,"Córdoba",2018,10,"Dengue",10,"De 45 a 64 años",1
+14,"Capital",14,"Córdoba",2018,12,"Dengue",8,"De 20 a 24 años",2
+14,"Capital",14,"Córdoba",2018,12,"Dengue",9,"De 25 a 34 años",3
+14,"Capital",14,"Córdoba",2018,12,"Dengue",11,"Mayor o igual de 65 años",1
+14,"Capital",14,"Córdoba",2018,13,"Dengue",8,"De 20 a 24 años",2
+14,"Capital",14,"Córdoba",2018,13,"Dengue",9,"De 25 a 34 años",1
+14,"Capital",14,"Córdoba",2018,13,"Dengue",10,"De 35 a 44 años",1
+14,"Capital",14,"Córdoba",2018,13,"Dengue",10,"De 45 a 64 años",1
+14,"Capital",14,"Córdoba",2018,15,"Dengue",8,"De 20 a 24 años",1
+14,"Capital",14,"Córdoba",2018,16,"Dengue",10,"De 35 a 44 años",1
+14,"Capital",14,"Córdoba",2018,16,"Dengue",10,"De 45 a 64 años",1
+14,"Capital",14,"Córdoba",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+21,"Colón",14,"Córdoba",2018,12,"Dengue",9,"De 25 a 34 años",1
+161,"Tercero Arriba",14,"Córdoba",2018,21,"Dengue",9,"De 25 a 34 años",1
+0,"*sin dato*",18,"Corrientes",2018,17,"Dengue",9,"De 25 a 34 años",1
+21,"Capital",18,"Corrientes",2018,11,"Dengue",10,"De 45 a 64 años",1
+21,"Capital",18,"Corrientes",2018,20,"Dengue",10,"De 45 a 64 años",1
+21,"Capital",18,"Corrientes",2018,20,"Dengue",12,"Sin Especificar",2
+21,"Capital",18,"Corrientes",2018,21,"Dengue",8,"De 20 a 24 años",1
+21,"Capital",18,"Corrientes",2018,23,"Dengue",9,"De 25 a 34 años",1
+126,"Saladas",18,"Corrientes",2018,18,"Dengue",9,"De 25 a 34 años",1
+126,"Saladas",18,"Corrientes",2018,19,"Dengue",7,"De 15 a 19 años",1
+126,"Saladas",18,"Corrientes",2018,19,"Dengue",9,"De 25 a 34 años",2
+126,"Saladas",18,"Corrientes",2018,20,"Dengue",8,"De 20 a 24 años",1
+126,"Saladas",18,"Corrientes",2018,20,"Dengue",11,"Mayor o igual de 65 años",2
+168,"Santo Tomé",18,"Corrientes",2018,16,"Dengue",10,"De 35 a 44 años",1
+15,"Concordia",30,"Entre Ríos",2018,20,"Dengue",9,"De 25 a 34 años",1
+84,"Paraná",31,"Entre Ríos",2018,14,"Dengue",10,"De 45 a 64 años",1
+84,"Paraná",32,"Entre Ríos",2018,16,"Dengue",10,"De 35 a 44 años",1
+84,"Paraná",33,"Entre Ríos",2018,16,"Dengue",11,"Mayor o igual de 65 años",1
+14,"Formosa",34,"Formosa",2018,1,"Dengue",8,"De 20 a 24 años",3
+14,"Formosa",34,"Formosa",2018,3,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2018,7,"Dengue",9,"De 25 a 34 años",1
+14,"Formosa",34,"Formosa",2018,8,"Dengue",9,"De 25 a 34 años",1
+14,"Formosa",34,"Formosa",2018,9,"Dengue",8,"De 20 a 24 años",1
+14,"Formosa",34,"Formosa",2018,9,"Dengue",10,"De 35 a 44 años",1
+14,"Formosa",34,"Formosa",2018,10,"Dengue",7,"De 15 a 19 años",1
+14,"Formosa",34,"Formosa",2018,10,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2018,11,"Dengue",6,"De 10 a 14 años",1
+14,"Formosa",34,"Formosa",2018,11,"Dengue",8,"De 20 a 24 años",1
+14,"Formosa",34,"Formosa",2018,11,"Dengue",10,"De 35 a 44 años",1
+14,"Formosa",34,"Formosa",2018,11,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2018,12,"Dengue",9,"De 25 a 34 años",1
+14,"Formosa",34,"Formosa",2018,12,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2018,12,"Dengue",11,"Mayor o igual de 65 años",1
+14,"Formosa",34,"Formosa",2018,13,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2018,19,"Dengue",8,"De 20 a 24 años",1
+14,"Formosa",34,"Formosa",2018,20,"Dengue",10,"De 45 a 64 años",1
+28,"Matacos",34,"Formosa",2018,18,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Matacos",34,"Formosa",2018,20,"Dengue",4,"De 2 a 4 años",1
+35,"PATIÑO",34,"Formosa",2018,7,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,2,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,8,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,8,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2018,10,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2018,15,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",54,"Misiones",2018,15,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Capital",54,"Misiones",2018,16,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,17,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2018,18,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,18,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",54,"Misiones",2018,19,"Dengue",5,"De 5 a 9 años",1
+28,"Capital",54,"Misiones",2018,19,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2018,19,"Dengue",9,"De 25 a 34 años",2
+28,"Capital",54,"Misiones",2018,19,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",54,"Misiones",2018,19,"Dengue",11,"Mayor o igual de 65 años",5
+28,"Capital",54,"Misiones",2018,20,"Dengue",7,"De 15 a 19 años",3
+28,"Capital",54,"Misiones",2018,20,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,20,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",54,"Misiones",2018,20,"Dengue",11,"Mayor o igual de 65 años",2
+28,"Capital",54,"Misiones",2018,21,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Capital",54,"Misiones",2018,22,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2018,22,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2018,26,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazú",54,"Misiones",2018,11,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazú",54,"Misiones",2018,13,"Dengue",5,"De 5 a 9 años",1
+63,"Iguazú",54,"Misiones",2018,13,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazú",54,"Misiones",2018,14,"Dengue",10,"De 35 a 44 años",2
+63,"Iguazú",54,"Misiones",2018,14,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazú",54,"Misiones",2018,17,"Dengue",7,"De 15 a 19 años",1
+63,"Iguazú",54,"Misiones",2018,17,"Dengue",10,"De 35 a 44 años",1
+63,"Iguazú",54,"Misiones",2018,17,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazú",54,"Misiones",2018,18,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazú",54,"Misiones",2018,19,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazú",54,"Misiones",2018,19,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazú",54,"Misiones",2018,21,"Dengue",7,"De 15 a 19 años",1
+63,"Iguazú",54,"Misiones",2018,21,"Dengue",9,"De 25 a 34 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,10,"Dengue",7,"De 15 a 19 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,11,"Dengue",10,"De 35 a 44 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,11,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,12,"Dengue",4,"De 2 a 4 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,12,"Dengue",6,"De 10 a 14 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,12,"Dengue",7,"De 15 a 19 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,12,"Dengue",8,"De 20 a 24 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,12,"Dengue",10,"De 35 a 44 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,13,"Dengue",8,"De 20 a 24 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,13,"Dengue",9,"De 25 a 34 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",4,"De 2 a 4 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",5,"De 5 a 9 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",7,"De 15 a 19 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",8,"De 20 a 24 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",9,"De 25 a 34 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,14,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,15,"Dengue",6,"De 10 a 14 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,15,"Dengue",8,"De 20 a 24 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,15,"Dengue",9,"De 25 a 34 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,15,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,16,"Dengue",7,"De 15 a 19 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,16,"Dengue",10,"De 35 a 44 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,16,"Dengue",10,"De 45 a 64 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",5,"De 5 a 9 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",6,"De 10 a 14 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",7,"De 15 a 19 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",8,"De 20 a 24 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",9,"De 25 a 34 años",3
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",10,"De 35 a 44 años",3
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",10,"De 45 a 64 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,17,"Dengue",11,"Mayor o igual de 65 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",5,"De 5 a 9 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",6,"De 10 a 14 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",7,"De 15 a 19 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",8,"De 20 a 24 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",9,"De 25 a 34 años",4
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",11,"Mayor o igual de 65 años",3
+77,"Libertador Grl. San Martín",54,"Misiones",2018,18,"Dengue",12,"Sin Especificar",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",7,"De 15 a 19 años",3
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",8,"De 20 a 24 años",4
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",9,"De 25 a 34 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",10,"De 45 a 64 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",11,"Mayor o igual de 65 años",6
+77,"Libertador Grl. San Martín",54,"Misiones",2018,19,"Dengue",12,"Sin Especificar",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",6,"De 10 a 14 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",7,"De 15 a 19 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",8,"De 20 a 24 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",9,"De 25 a 34 años",3
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",11,"Mayor o igual de 65 años",2
+77,"Libertador Grl. San Martín",54,"Misiones",2018,20,"Dengue",12,"Sin Especificar",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,21,"Dengue",6,"De 10 a 14 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,21,"Dengue",7,"De 15 a 19 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,21,"Dengue",8,"De 20 a 24 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,21,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,21,"Dengue",11,"Mayor o igual de 65 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,22,"Dengue",10,"De 45 a 64 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,22,"Dengue",11,"Mayor o igual de 65 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,26,"Dengue",5,"De 5 a 9 años",1
+77,"Libertador Grl. San Martín",54,"Misiones",2018,26,"Dengue",10,"De 45 a 64 años",1
+84,"Montecarlo",54,"Misiones",2018,20,"Dengue",10,"De 45 a 64 años",1
+98,"San Ignacio",54,"Misiones",2018,22,"Dengue",10,"De 45 a 64 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,15,"Dengue",8,"De 20 a 24 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Dengue",4,"De 2 a 4 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Dengue",5,"De 5 a 9 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Dengue",9,"De 25 a 34 años",2
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Dengue",10,"De 45 a 64 años",2
+105,"LOS ANDES",66,"Salta",2018,11,"Dengue",6,"De 10 a 14 años",
+77,"9 de Julio",82,"Santa Fe",2018,23,"Dengue",9,"De 25 a 34 años",1
+49,"General Obligado",82,"Santa Fe",2018,19,"Dengue",8,"De 20 a 24 años",1
+49,"General Obligado",82,"Santa Fe",2018,21,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2018,15,"Dengue",9,"De 25 a 34 años",1
+84,"Rosario",82,"Santa Fe",2018,18,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2018,19,"Dengue",9,"De 25 a 34 años",1
+35,"Banda",86,"Santiago del Estero",2018,15,"Dengue",4,"De 2 a 4 años",1
+35,"Banda",86,"Santiago del Estero",2018,16,"Dengue",1,"Menor que 1 año",1
+35,"Banda",86,"Santiago del Estero",2018,17,"Dengue",7,"De 15 a 19 años",1
+35,"Banda",86,"Santiago del Estero",2018,18,"Dengue",4,"De 2 a 4 años",1
+147,"Río Hondo",86,"Santiago del Estero",2018,18,"Dengue",4,"De 2 a 4 años",1
+21,"Chicligasta",90,"Tucumán",2018,14,"Dengue",10,"De 35 a 44 años",1
+105,"Tafí Viejo",90,"Tucumán",2018,22,"Dengue",12,"Sin Especificar",1
+427,"La Matanza",6,"Buenos Aires",2018,11,"Enfermedad por Virus del Zika",11,"Mayor o igual de 65 años",1
+28,"Capital",66,"Salta",2018,23,"Enfermedad por Virus del Zika",10,"De 45 a 64 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,10,"Enfermedad por Virus del Zika",10,"De 35 a 44 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,11,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,12,"Enfermedad por Virus del Zika",8,"De 20 a 24 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,12,"Enfermedad por Virus del Zika",2,"Igual a 1 año",1
+56,"Grl. José de San Martín",66,"Salta",2018,14,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",2
+56,"Grl. José de San Martín",66,"Salta",2018,15,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,15,"Enfermedad por Virus del Zika",10,"De 45 a 64 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,16,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,16,"Enfermedad por Virus del Zika",10,"De 35 a 44 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,19,"Enfermedad por Virus del Zika",1,"Menor que 1 año",1
+56,"Grl. José de San Martín",66,"Salta",2018,19,"Enfermedad por Virus del Zika",8,"De 20 a 24 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,19,"Enfermedad por Virus del Zika",10,"De 45 a 64 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Enfermedad por Virus del Zika",3,"De 13 a 24 meses",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Enfermedad por Virus del Zika",4,"De 2 a 4 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,20,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,21,"Enfermedad por Virus del Zika",5,"De 5 a 9 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,22,"Enfermedad por Virus del Zika",7,"De 15 a 19 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,22,"Enfermedad por Virus del Zika",10,"De 45 a 64 años",1
+56,"Grl. José de San Martín",66,"Salta",2018,22,"Enfermedad por Virus del Zika",11,"Mayor o igual de 65 años",1
+126,"Orán",66,"Salta",2018,18,"Enfermedad por Virus del Zika",7,"De 15 a 19 años",1
+126,"Orán",66,"Salta",2018,18,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+126,"Orán",66,"Salta",2018,19,"Enfermedad por Virus del Zika",7,"De 15 a 19 años",2
+126,"Orán",66,"Salta",2018,19,"Enfermedad por Virus del Zika",8,"De 20 a 24 años",1
+126,"Orán",66,"Salta",2018,19,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",2
+126,"Orán",66,"Salta",2018,20,"Enfermedad por Virus del Zika",5,"De 5 a 9 años",1
+126,"Orán",66,"Salta",2018,20,"Enfermedad por Virus del Zika",7,"De 15 a 19 años",1
+126,"Orán",66,"Salta",2018,20,"Enfermedad por Virus del Zika",8,"De 20 a 24 años",1
+126,"Orán",66,"Salta",2018,20,"Enfermedad por Virus del Zika",11,"Mayor o igual de 65 años",1
+126,"Orán",66,"Salta",2018,21,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+126,"Orán",66,"Salta",2018,22,"Enfermedad por Virus del Zika",6,"De 10 a 14 años",1
+126,"Orán",66,"Salta",2018,23,"Enfermedad por Virus del Zika",7,"De 15 a 19 años",1
+126,"Orán",66,"Salta",2018,23,"Enfermedad por Virus del Zika",9,"De 25 a 34 años",1
+49,"Capital",86,"Santiago del Estero",2018,5,"Dengue",9,"De 25 a 34 años",1
+49,"Capital",86,"Santiago del Estero",2018,5,"Dengue",11,"Mayor o igual de 65 años",1
+49,"Capital",86,"Santiago del Estero",2018,16,"Dengue",10,"De 45 a 64 años",1
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",6,"De 10 a 14 años",4
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",3,"De 13 a 24 meses",1
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",7,"De 15 a 19 años",2
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",4,"De 2 a 4 años",3
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",8,"De 20 a 24 años",2
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",9,"De 25 a 34 años",2
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",9,"De 25 a 34 años",3
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",10,"De 45 a 64 años",1
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",5,"De 5 a 9 años",3
+49,"Capital",86,"Santiago del Estero",2018,17,"Dengue",1,"Menor que 1 año",1
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",6,"De 10 a 14 años",6
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",7,"De 15 a 19 años",1
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",4,"De 2 a 4 años",2
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",8,"De 20 a 24 años",1
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",9,"De 25 a 34 años",2
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",10,"De 45 a 64 años",1
+49,"Capital",86,"Santiago del Estero",2018,18,"Dengue",5,"De 5 a 9 años",5
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",6,"De 10 a 14 años",19
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",7,"De 15 a 19 años",9
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",4,"De 2 a 4 años",1
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",8,"De 20 a 24 años",3
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",9,"De 25 a 34 años",14
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",9,"De 25 a 34 años",13
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",10,"De 45 a 64 años",7
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",5,"De 5 a 9 años",4
+49,"Capital",86,"Santiago del Estero",2018,19,"Dengue",11,"Mayor o igual de 65 años",1
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",6,"De 10 a 14 años",4
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",7,"De 15 a 19 años",4
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",4,"De 2 a 4 años",2
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",8,"De 20 a 24 años",5
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",9,"De 25 a 34 años",8
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",9,"De 25 a 34 años",11
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",10,"De 45 a 64 años",12
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",5,"De 5 a 9 años",5
+49,"Capital",86,"Santiago del Estero",2018,20,"Dengue",11,"Mayor o igual de 65 años",2
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",6,"De 10 a 14 años",2
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",7,"De 15 a 19 años",2
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",8,"De 20 a 24 años",1
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",9,"De 25 a 34 años",1
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",9,"De 25 a 34 años",1
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",10,"De 45 a 64 años",4
+49,"Capital",86,"Santiago del Estero",2018,21,"Dengue",5,"De 5 a 9 años",1
+49,"Capital",86,"Santiago del Estero",2018,22,"Dengue",6,"De 10 a 14 años",1
+49,"Capital",86,"Santiago del Estero",2018,22,"Dengue",7,"De 15 a 19 años",2
+49,"Capital",86,"Santiago del Estero",2018,22,"Dengue",9,"De 25 a 34 años",1
+49,"Capital",86,"Santiago del Estero",2018,22,"Dengue",10,"De 45 a 64 años",2
+49,"Capital",86,"Santiago del Estero",2018,22,"Dengue",5,"De 5 a 9 años",1
+49,"Capital",86,"Santiago del Estero",2018,23,"Dengue",6,"De 10 a 14 años",1
+49,"Capital",86,"Santiago del Estero",2018,23,"Dengue",10,"De 45 a 64 años",1
+49,"Capital",86,"Santiago del Estero",2018,24,"Dengue",11,"Mayor o igual de 65 años",1
+1,"COMUNA 1",2,"CABA",2019,7,"Dengue",7,"De 15 a 19 años",1
+1,"COMUNA 1",2,"CABA",2019,7,"Dengue",9,"De 25 a 34 años",1
+1,"COMUNA 10",2,"CABA",2019,14,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 11",2,"CABA",2019,15,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 14",2,"CABA",2019,12,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 15",2,"CABA",2019,15,"Dengue",10,"De 35 a 44 años",1
+1,"COMUNA 2",2,"CABA",2019,24,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 3",2,"CABA",2019,4,"Dengue",9,"De 25 a 34 años",1
+1,"COMUNA 5",2,"CABA",2019,3,"Dengue",7,"De 15 a 19 años",1
+1,"COMUNA 7",2,"CABA",2019,12,"Dengue",10,"De 45 a 64 años",1
+1,"COMUNA 9",2,"CABA",2019,11,"Dengue",7,"De 15 a 19 años",1
+1,"COMUNA 9",2,"CABA",2019,14,"Dengue",8,"De 20 a 24 años",1
+1,"COMUNA 9",2,"CABA",2019,17,"Dengue",10,"De 45 a 64 años",3
+4,"COMUNA 4",2,"CABA",2019,17,"Dengue",9,"De 25 a 34 años",1
+4,"COMUNA 4",2,"CABA",2019,17,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2019,18,"Dengue",10,"De 45 a 64 años",2
+4,"COMUNA 4",2,"CABA",2019,19,"Dengue",10,"De 35 a 44 años",1
+4,"COMUNA 4",2,"CABA",2019,19,"Dengue",10,"De 45 a 64 años",1
+9,"COMUNA 9",2,"CABA",2019,13,"Dengue",10,"De 45 a 64 años",1
+9,"COMUNA 9",2,"CABA",2019,15,"Dengue",7,"De 15 a 19 años",1
+10,"COMUNA 10",2,"CABA",2019,9,"Dengue",10,"De 35 a 44 años",1
+10,"COMUNA 10",2,"CABA",2019,15,"Dengue",10,"De 45 a 64 años",1
+14,"COMUNA 14",2,"CABA",2019,15,"Dengue",9,"De 25 a 34 años",1
+91,"Berazategui",6,"Buenos Aires",2019,7,"Dengue",10,"De 45 a 64 años",1
+91,"Berazategui",6,"Buenos Aires",2019,12,"Dengue",10,"De 45 a 64 años",1
+274,"Florencio Varela",6,"Buenos Aires",2019,9,"Dengue",9,"De 25 a 34 años",1
+371,"General San Martin",6,"Buenos Aires",2019,10,"Dengue",7,"De 15 a 19 años",1
+371,"General San Martin",6,"Buenos Aires",2019,10,"Dengue",8,"De 20 a 24 años",1
+371,"General San Martin",6,"Buenos Aires",2019,10,"Dengue",9,"De 25 a 34 años",1
+371,"General San Martin",6,"Buenos Aires",2019,11,"Dengue",6,"De 10 a 14 años",1
+371,"General San Martin",6,"Buenos Aires",2019,13,"Dengue",8,"De 20 a 24 años",1
+371,"General San Martin",6,"Buenos Aires",2019,14,"Dengue",9,"De 25 a 34 años",1
+371,"General San Martin",6,"Buenos Aires",2019,14,"Dengue",10,"De 35 a 44 años",1
+371,"General San Martin",6,"Buenos Aires",2019,14,"Dengue",10,"De 45 a 64 años",1
+371,"General San Martin",6,"Buenos Aires",2019,16,"Dengue",10,"De 45 a 64 años",1
+371,"General San Martin",6,"Buenos Aires",2019,17,"Dengue",10,"De 45 a 64 años",1
+371,"General San Martin",6,"Buenos Aires",2019,18,"Dengue",7,"De 15 a 19 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,9,"Dengue",8,"De 20 a 24 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,9,"Dengue",10,"De 35 a 44 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,11,"Dengue",8,"De 20 a 24 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,11,"Dengue",10,"De 35 a 44 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,12,"Dengue",6,"De 10 a 14 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,12,"Dengue",10,"De 35 a 44 años",2
+410,"Ituzaingo",6,"Buenos Aires",2019,12,"Dengue",10,"De 45 a 64 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,13,"Dengue",9,"De 25 a 34 años",2
+410,"Ituzaingo",6,"Buenos Aires",2019,13,"Dengue",10,"De 35 a 44 años",3
+410,"Ituzaingo",6,"Buenos Aires",2019,13,"Dengue",10,"De 45 a 64 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,14,"Dengue",9,"De 25 a 34 años",2
+410,"Ituzaingo",6,"Buenos Aires",2019,14,"Dengue",10,"De 35 a 44 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,14,"Dengue",10,"De 45 a 64 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,15,"Dengue",9,"De 25 a 34 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,16,"Dengue",10,"De 35 a 44 años",2
+410,"Ituzaingo",6,"Buenos Aires",2019,16,"Dengue",10,"De 45 a 64 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,17,"Dengue",10,"De 45 a 64 años",2
+410,"Ituzaingo",6,"Buenos Aires",2019,18,"Dengue",10,"De 45 a 64 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,19,"Dengue",7,"De 15 a 19 años",1
+410,"Ituzaingo",6,"Buenos Aires",2019,19,"Dengue",10,"De 45 a 64 años",1
+427,"La Matanza",6,"Buenos Aires",2019,6,"Dengue",8,"De 20 a 24 años",1
+427,"La Matanza",6,"Buenos Aires",2019,13,"Dengue",10,"De 35 a 44 años",1
+427,"La Matanza",6,"Buenos Aires",2019,14,"Dengue",7,"De 15 a 19 años",1
+441,"La Plata",6,"Buenos Aires",2019,15,"Dengue",9,"De 25 a 34 años",1
+539,"Merlo",6,"Buenos Aires",2019,14,"Dengue",10,"De 45 a 64 años",1
+568,"Moron",6,"Buenos Aires",2019,12,"Dengue",10,"De 45 a 64 años",1
+568,"Moron",6,"Buenos Aires",2019,16,"Dengue",10,"De 45 a 64 años",1
+581,"Necochea",6,"Buenos Aires",2019,20,"Dengue",10,"De 45 a 64 años",1
+623,"Pergamino",6,"Buenos Aires",2019,7,"Dengue",10,"De 45 a 64 años",2
+840,"Tres de Febrero",6,"Buenos Aires",2019,13,"Dengue",8,"De 20 a 24 años",1
+21,"Colon",14,"Córdoba",2019,9,"Dengue",10,"De 45 a 64 años",1
+21,"Colon",14,"Córdoba",2019,17,"Dengue",8,"De 20 a 24 años",1
+21,"Colon",14,"Córdoba",2019,20,"Dengue",9,"De 25 a 34 años",1
+21,"Colon",14,"Córdoba",2019,20,"Dengue",10,"De 45 a 64 años",1
+63,"General Guemes",22,"Chaco",2019,12,"Dengue",9,"De 25 a 34 años",1
+63,"General Guemes",22,"Chaco",2019,12,"Dengue",10,"De 45 a 64 años",1
+63,"General Guemes",22,"Chaco",2019,14,"Dengue",7,"De 15 a 19 años",2
+63,"General Guemes",22,"Chaco",2019,15,"Dengue",8,"De 20 a 24 años",1
+63,"General Guemes",22,"Chaco",2019,15,"Dengue",9,"De 25 a 34 años",2
+63,"General Guemes",22,"Chaco",2019,16,"Dengue",6,"De 10 a 14 años",1
+63,"General Guemes",22,"Chaco",2019,16,"Dengue",9,"De 25 a 34 años",1
+63,"General Guemes",22,"Chaco",2019,17,"Dengue",7,"De 15 a 19 años",1
+63,"General Guemes",22,"Chaco",2019,17,"Dengue",10,"De 35 a 44 años",1
+63,"General Guemes",22,"Chaco",2019,18,"Dengue",9,"De 25 a 34 años",1
+63,"General Guemes",22,"Chaco",2019,18,"Dengue",10,"De 45 a 64 años",1
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",6,"De 10 a 14 años",1
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",8,"De 20 a 24 años",2
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",9,"De 25 a 34 años",4
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",10,"De 35 a 44 años",3
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",10,"De 45 a 64 años",1
+63,"General Guemes",22,"Chaco",2019,19,"Dengue",5,"De 5 a 9 años",2
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",6,"De 10 a 14 años",1
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",7,"De 15 a 19 años",1
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",9,"De 25 a 34 años",3
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",10,"De 35 a 44 años",4
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",10,"De 45 a 64 años",1
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",5,"De 5 a 9 años",2
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",11,"Mayor o igual de 65 años",2
+63,"General Guemes",22,"Chaco",2019,20,"Dengue",12,"Sin Especificar",1
+63,"General Guemes",22,"Chaco",2019,21,"Dengue",6,"De 10 a 14 años",1
+63,"General Guemes",22,"Chaco",2019,21,"Dengue",8,"De 20 a 24 años",1
+63,"General Guemes",22,"Chaco",2019,21,"Dengue",10,"De 35 a 44 años",2
+140,"San Fernando",22,"Chaco",2019,10,"Dengue",10,"De 45 a 64 años",1
+154,"Sargento Cabral",22,"Chaco",2019,15,"Dengue",10,"De 45 a 64 años",1
+14,"Formosa",34,"Formosa",2019,2,"Dengue",8,"De 20 a 24 años",1
+28,"Matacos",34,"Formosa",2019,2,"Dengue",10,"De 35 a 44 años",1
+28,"Matacos",34,"Formosa",2019,11,"Dengue",4,"De 2 a 4 años",1
+63,"Ramon Lista",34,"Formosa",2019,3,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",6,"De 10 a 14 años",3
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",7,"De 15 a 19 años",1
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",8,"De 20 a 24 años",2
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",10,"De 35 a 44 años",2
+14,"El Carmen",38,"Jujuy",2019,11,"Dengue",10,"De 45 a 64 años",2
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",6,"De 10 a 14 años",1
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",7,"De 15 a 19 años",2
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",8,"De 20 a 24 años",2
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",9,"De 25 a 34 años",3
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",10,"De 35 a 44 años",2
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",10,"De 45 a 64 años",1
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",5,"De 5 a 9 años",2
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",11,"Mayor o igual de 65 años",1
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",6,"De 10 a 14 años",2
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",7,"De 15 a 19 años",2
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",8,"De 20 a 24 años",2
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",10,"De 35 a 44 años",1
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",10,"De 45 a 64 años",2
+14,"El Carmen",38,"Jujuy",2019,13,"Dengue",11,"Mayor o igual de 65 años",1
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",6,"De 10 a 14 años",1
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",8,"De 20 a 24 años",3
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",10,"De 35 a 44 años",3
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",10,"De 45 a 64 años",2
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",5,"De 5 a 9 años",1
+14,"El Carmen",38,"Jujuy",2019,14,"Dengue",11,"Mayor o igual de 65 años",2
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",7,"De 15 a 19 años",5
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",8,"De 20 a 24 años",3
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",9,"De 25 a 34 años",2
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",10,"De 35 a 44 años",3
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",10,"De 45 a 64 años",4
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",5,"De 5 a 9 años",1
+14,"El Carmen",38,"Jujuy",2019,15,"Dengue",11,"Mayor o igual de 65 años",1
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",6,"De 10 a 14 años",1
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",7,"De 15 a 19 años",2
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",8,"De 20 a 24 años",1
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",9,"De 25 a 34 años",2
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",10,"De 35 a 44 años",1
+14,"El Carmen",38,"Jujuy",2019,16,"Dengue",5,"De 5 a 9 años",1
+14,"El Carmen",38,"Jujuy",2019,17,"Dengue",6,"De 10 a 14 años",2
+14,"El Carmen",38,"Jujuy",2019,17,"Dengue",7,"De 15 a 19 años",2
+14,"El Carmen",38,"Jujuy",2019,17,"Dengue",8,"De 20 a 24 años",1
+14,"El Carmen",38,"Jujuy",2019,17,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,17,"Dengue",10,"De 35 a 44 años",2
+14,"El Carmen",38,"Jujuy",2019,18,"Dengue",6,"De 10 a 14 años",1
+14,"El Carmen",38,"Jujuy",2019,19,"Dengue",7,"De 15 a 19 años",1
+14,"El Carmen",38,"Jujuy",2019,19,"Dengue",8,"De 20 a 24 años",2
+14,"El Carmen",38,"Jujuy",2019,19,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,19,"Dengue",10,"De 45 a 64 años",1
+14,"El Carmen",38,"Jujuy",2019,19,"Dengue",5,"De 5 a 9 años",1
+35,"Ledesma",38,"Jujuy",2019,7,"Dengue",6,"De 10 a 14 años",1
+35,"Ledesma",38,"Jujuy",2019,8,"Dengue",10,"De 35 a 44 años",1
+35,"Ledesma",38,"Jujuy",2019,9,"Dengue",9,"De 25 a 34 años",1
+35,"Ledesma",38,"Jujuy",2019,9,"Dengue",10,"De 45 a 64 años",2
+35,"Ledesma",38,"Jujuy",2019,9,"Dengue",5,"De 5 a 9 años",1
+35,"Ledesma",38,"Jujuy",2019,10,"Dengue",9,"De 25 a 34 años",3
+35,"Ledesma",38,"Jujuy",2019,10,"Dengue",10,"De 45 a 64 años",2
+35,"Ledesma",38,"Jujuy",2019,10,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Ledesma",38,"Jujuy",2019,11,"Dengue",7,"De 15 a 19 años",1
+35,"Ledesma",38,"Jujuy",2019,11,"Dengue",8,"De 20 a 24 años",1
+35,"Ledesma",38,"Jujuy",2019,11,"Dengue",9,"De 25 a 34 años",3
+35,"Ledesma",38,"Jujuy",2019,11,"Dengue",10,"De 45 a 64 años",2
+35,"Ledesma",38,"Jujuy",2019,11,"Dengue",11,"Mayor o igual de 65 años",2
+35,"Ledesma",38,"Jujuy",2019,12,"Dengue",9,"De 25 a 34 años",3
+35,"Ledesma",38,"Jujuy",2019,12,"Dengue",10,"De 35 a 44 años",1
+35,"Ledesma",38,"Jujuy",2019,12,"Dengue",10,"De 45 a 64 años",1
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",6,"De 10 a 14 años",2
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",7,"De 15 a 19 años",2
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",8,"De 20 a 24 años",1
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",9,"De 25 a 34 años",3
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",10,"De 35 a 44 años",1
+35,"Ledesma",38,"Jujuy",2019,13,"Dengue",10,"De 45 a 64 años",6
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",6,"De 10 a 14 años",5
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",7,"De 15 a 19 años",1
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",4,"De 2 a 4 años",2
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",9,"De 25 a 34 años",3
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",10,"De 35 a 44 años",1
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",10,"De 45 a 64 años",4
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",5,"De 5 a 9 años",1
+35,"Ledesma",38,"Jujuy",2019,14,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",6,"De 10 a 14 años",1
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",7,"De 15 a 19 años",2
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",8,"De 20 a 24 años",3
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",9,"De 25 a 34 años",5
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",10,"De 35 a 44 años",6
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",10,"De 45 a 64 años",5
+35,"Ledesma",38,"Jujuy",2019,15,"Dengue",5,"De 5 a 9 años",3
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",6,"De 10 a 14 años",3
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",7,"De 15 a 19 años",6
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",8,"De 20 a 24 años",2
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",9,"De 25 a 34 años",6
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",10,"De 35 a 44 años",3
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",10,"De 45 a 64 años",5
+35,"Ledesma",38,"Jujuy",2019,16,"Dengue",5,"De 5 a 9 años",3
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",6,"De 10 a 14 años",3
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",7,"De 15 a 19 años",5
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",4,"De 2 a 4 años",1
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",8,"De 20 a 24 años",4
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",9,"De 25 a 34 años",5
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",10,"De 35 a 44 años",6
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",10,"De 45 a 64 años",9
+35,"Ledesma",38,"Jujuy",2019,17,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",6,"De 10 a 14 años",2
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",7,"De 15 a 19 años",3
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",4,"De 2 a 4 años",1
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",8,"De 20 a 24 años",3
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",9,"De 25 a 34 años",5
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",10,"De 35 a 44 años",3
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",10,"De 45 a 64 años",7
+35,"Ledesma",38,"Jujuy",2019,18,"Dengue",5,"De 5 a 9 años",2
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",6,"De 10 a 14 años",5
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",7,"De 15 a 19 años",5
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",8,"De 20 a 24 años",1
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",9,"De 25 a 34 años",7
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",10,"De 35 a 44 años",6
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",10,"De 45 a 64 años",8
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",5,"De 5 a 9 años",1
+35,"Ledesma",38,"Jujuy",2019,19,"Dengue",11,"Mayor o igual de 65 años",1
+35,"Ledesma",38,"Jujuy",2019,20,"Dengue",6,"De 10 a 14 años",1
+35,"Ledesma",38,"Jujuy",2019,20,"Dengue",10,"De 45 a 64 años",2
+35,"Ledesma",38,"Jujuy",2019,21,"Dengue",6,"De 10 a 14 años",1
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",6,"De 10 a 14 años",2
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",7,"De 15 a 19 años",1
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",4,"De 2 a 4 años",1
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",10,"De 35 a 44 años",1
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",5,"De 5 a 9 años",1
+63,"San Pedro",38,"Jujuy",2019,11,"Dengue",12,"Sin Especificar",1
+63,"San Pedro",38,"Jujuy",2019,12,"Dengue",6,"De 10 a 14 años",5
+63,"San Pedro",38,"Jujuy",2019,12,"Dengue",7,"De 15 a 19 años",1
+63,"San Pedro",38,"Jujuy",2019,12,"Dengue",8,"De 20 a 24 años",2
+63,"San Pedro",38,"Jujuy",2019,12,"Dengue",10,"De 35 a 44 años",3
+63,"San Pedro",38,"Jujuy",2019,12,"Dengue",10,"De 45 a 64 años",2
+63,"San Pedro",38,"Jujuy",2019,13,"Dengue",7,"De 15 a 19 años",2
+63,"San Pedro",38,"Jujuy",2019,13,"Dengue",9,"De 25 a 34 años",1
+63,"San Pedro",38,"Jujuy",2019,13,"Dengue",10,"De 35 a 44 años",1
+63,"San Pedro",38,"Jujuy",2019,13,"Dengue",5,"De 5 a 9 años",1
+63,"San Pedro",38,"Jujuy",2019,14,"Dengue",7,"De 15 a 19 años",1
+63,"San Pedro",38,"Jujuy",2019,14,"Dengue",8,"De 20 a 24 años",2
+63,"San Pedro",38,"Jujuy",2019,14,"Dengue",9,"De 25 a 34 años",2
+63,"San Pedro",38,"Jujuy",2019,14,"Dengue",10,"De 35 a 44 años",1
+63,"San Pedro",38,"Jujuy",2019,15,"Dengue",7,"De 15 a 19 años",4
+63,"San Pedro",38,"Jujuy",2019,15,"Dengue",9,"De 25 a 34 años",1
+63,"San Pedro",38,"Jujuy",2019,15,"Dengue",10,"De 35 a 44 años",2
+63,"San Pedro",38,"Jujuy",2019,15,"Dengue",10,"De 45 a 64 años",1
+63,"San Pedro",38,"Jujuy",2019,16,"Dengue",10,"De 35 a 44 años",1
+63,"San Pedro",38,"Jujuy",2019,17,"Dengue",10,"De 35 a 44 años",1
+63,"San Pedro",38,"Jujuy",2019,18,"Dengue",6,"De 10 a 14 años",1
+63,"San Pedro",38,"Jujuy",2019,18,"Dengue",9,"De 25 a 34 años",1
+63,"San Pedro",38,"Jujuy",2019,19,"Dengue",9,"De 25 a 34 años",1
+70,"Santa Barbara",38,"Jujuy",2019,7,"Dengue",9,"De 25 a 34 años",1
+14,"El Carmen",38,"Jujuy",2019,12,"Dengue",10,"De 45 a 64 años",1
+119,"Tunuyan",50,"Mendoza",2019,6,"Dengue",8,"De 20 a 24 años",1
+7,"Apostoles",54,"Misiones",2019,9,"Dengue",5,"De 5 a 9 años",1
+7,"Apostoles",54,"Misiones",2019,12,"Dengue",7,"De 15 a 19 años",1
+7,"Apostoles",54,"Misiones",2019,14,"Dengue",6,"De 10 a 14 años",1
+7,"Apostoles",54,"Misiones",2019,15,"Dengue",7,"De 15 a 19 años",2
+7,"Apostoles",54,"Misiones",2019,15,"Dengue",8,"De 20 a 24 años",1
+7,"Apostoles",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",1
+7,"Apostoles",54,"Misiones",2019,15,"Dengue",10,"De 35 a 44 años",1
+7,"Apostoles",54,"Misiones",2019,15,"Dengue",10,"De 45 a 64 años",2
+7,"Apostoles",54,"Misiones",2019,16,"Dengue",9,"De 25 a 34 años",1
+7,"Apostoles",54,"Misiones",2019,16,"Dengue",10,"De 35 a 44 años",3
+7,"Apostoles",54,"Misiones",2019,16,"Dengue",10,"De 45 a 64 años",1
+7,"Apostoles",54,"Misiones",2019,16,"Dengue",5,"De 5 a 9 años",1
+7,"Apostoles",54,"Misiones",2019,17,"Dengue",9,"De 25 a 34 años",1
+7,"Apostoles",54,"Misiones",2019,17,"Dengue",10,"De 35 a 44 años",2
+7,"Apostoles",54,"Misiones",2019,17,"Dengue",10,"De 45 a 64 años",2
+7,"Apostoles",54,"Misiones",2019,18,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,6,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Capital",54,"Misiones",2019,8,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,9,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,9,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",54,"Misiones",2019,9,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Capital",54,"Misiones",2019,11,"Dengue",7,"De 15 a 19 años",1
+28,"Capital",54,"Misiones",2019,11,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,12,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",54,"Misiones",2019,12,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,13,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2019,13,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,14,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,14,"Dengue",10,"De 45 a 64 años",2
+28,"Capital",54,"Misiones",2019,14,"Dengue",5,"De 5 a 9 años",1
+28,"Capital",54,"Misiones",2019,15,"Dengue",7,"De 15 a 19 años",2
+28,"Capital",54,"Misiones",2019,15,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",3
+28,"Capital",54,"Misiones",2019,15,"Dengue",10,"De 35 a 44 años",3
+28,"Capital",54,"Misiones",2019,15,"Dengue",10,"De 45 a 64 años",5
+28,"Capital",54,"Misiones",2019,15,"Dengue",5,"De 5 a 9 años",2
+28,"Capital",54,"Misiones",2019,16,"Dengue",6,"De 10 a 14 años",2
+28,"Capital",54,"Misiones",2019,16,"Dengue",7,"De 15 a 19 años",1
+28,"Capital",54,"Misiones",2019,16,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",54,"Misiones",2019,16,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,16,"Dengue",10,"De 35 a 44 años",7
+28,"Capital",54,"Misiones",2019,16,"Dengue",10,"De 45 a 64 años",7
+28,"Capital",54,"Misiones",2019,17,"Dengue",6,"De 10 a 14 años",2
+28,"Capital",54,"Misiones",2019,17,"Dengue",9,"De 25 a 34 años",4
+28,"Capital",54,"Misiones",2019,17,"Dengue",10,"De 35 a 44 años",3
+28,"Capital",54,"Misiones",2019,17,"Dengue",10,"De 45 a 64 años",4
+28,"Capital",54,"Misiones",2019,17,"Dengue",5,"De 5 a 9 años",1
+28,"Capital",54,"Misiones",2019,17,"Dengue",11,"Mayor o igual de 65 años",1
+28,"Capital",54,"Misiones",2019,18,"Dengue",4,"De 2 a 4 años",1
+28,"Capital",54,"Misiones",2019,18,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",54,"Misiones",2019,18,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,19,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,20,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",54,"Misiones",2019,20,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",54,"Misiones",2019,20,"Dengue",11,"Mayor o igual de 65 años",1
+42,"Eldorado",54,"Misiones",2019,2,"Dengue",9,"De 25 a 34 años",1
+42,"Eldorado",54,"Misiones",2019,12,"Dengue",10,"De 35 a 44 años",1
+42,"Eldorado",54,"Misiones",2019,13,"Dengue",9,"De 25 a 34 años",1
+42,"Eldorado",54,"Misiones",2019,14,"Dengue",8,"De 20 a 24 años",1
+42,"Eldorado",54,"Misiones",2019,15,"Dengue",8,"De 20 a 24 años",1
+42,"Eldorado",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",1
+42,"Eldorado",54,"Misiones",2019,15,"Dengue",10,"De 35 a 44 años",2
+42,"Eldorado",54,"Misiones",2019,15,"Dengue",10,"De 45 a 64 años",1
+42,"Eldorado",54,"Misiones",2019,15,"Dengue",11,"Mayor o igual de 65 años",1
+42,"Eldorado",54,"Misiones",2019,17,"Dengue",10,"De 45 a 64 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,5,"Dengue",9,"De 25 a 34 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,12,"Dengue",10,"De 35 a 44 años",2
+49,"General Manuel Belgrano",54,"Misiones",2019,12,"Dengue",10,"De 45 a 64 años",2
+49,"General Manuel Belgrano",54,"Misiones",2019,14,"Dengue",6,"De 10 a 14 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,14,"Dengue",9,"De 25 a 34 años",2
+49,"General Manuel Belgrano",54,"Misiones",2019,14,"Dengue",10,"De 35 a 44 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,14,"Dengue",10,"De 45 a 64 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,14,"Dengue",5,"De 5 a 9 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,15,"Dengue",7,"De 15 a 19 años",2
+49,"General Manuel Belgrano",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,16,"Dengue",8,"De 20 a 24 años",1
+49,"General Manuel Belgrano",54,"Misiones",2019,17,"Dengue",4,"De 2 a 4 años",1
+56,"Guarani",54,"Misiones",2019,12,"Dengue",8,"De 20 a 24 años",1
+56,"Guarani",54,"Misiones",2019,12,"Dengue",10,"De 45 a 64 años",1
+56,"Guarani",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",1
+56,"Guarani",54,"Misiones",2019,16,"Dengue",7,"De 15 a 19 años",1
+56,"Guarani",54,"Misiones",2019,16,"Dengue",9,"De 25 a 34 años",1
+56,"Guarani",54,"Misiones",2019,18,"Dengue",6,"De 10 a 14 años",1
+56,"Guarani",54,"Misiones",2019,19,"Dengue",7,"De 15 a 19 años",1
+56,"Guarani",54,"Misiones",2019,22,"Dengue",6,"De 10 a 14 años",1
+56,"Guarani",54,"Misiones",2019,22,"Dengue",8,"De 20 a 24 años",2
+56,"Guarani",54,"Misiones",2019,22,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,1,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,3,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,3,"Dengue",10,"De 35 a 44 años",1
+63,"Iguazu",54,"Misiones",2019,3,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazu",54,"Misiones",2019,4,"Dengue",9,"De 25 a 34 años",1
+63,"Iguazu",54,"Misiones",2019,4,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,5,"Dengue",4,"De 2 a 4 años",1
+63,"Iguazu",54,"Misiones",2019,5,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazu",54,"Misiones",2019,6,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,6,"Dengue",9,"De 25 a 34 años",1
+63,"Iguazu",54,"Misiones",2019,6,"Dengue",10,"De 35 a 44 años",2
+63,"Iguazu",54,"Misiones",2019,6,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",7,"De 15 a 19 años",1
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",9,"De 25 a 34 años",1
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",10,"De 35 a 44 años",2
+63,"Iguazu",54,"Misiones",2019,7,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazu",54,"Misiones",2019,8,"Dengue",9,"De 25 a 34 años",2
+63,"Iguazu",54,"Misiones",2019,8,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,8,"Dengue",5,"De 5 a 9 años",1
+63,"Iguazu",54,"Misiones",2019,8,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazu",54,"Misiones",2019,10,"Dengue",10,"De 35 a 44 años",1
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",7,"De 15 a 19 años",3
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",4,"De 2 a 4 años",1
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",8,"De 20 a 24 años",3
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",9,"De 25 a 34 años",2
+63,"Iguazu",54,"Misiones",2019,11,"Dengue",10,"De 45 a 64 años",3
+63,"Iguazu",54,"Misiones",2019,12,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,12,"Dengue",9,"De 25 a 34 años",2
+63,"Iguazu",54,"Misiones",2019,12,"Dengue",10,"De 35 a 44 años",5
+63,"Iguazu",54,"Misiones",2019,12,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,12,"Dengue",11,"Mayor o igual de 65 años",1
+63,"Iguazu",54,"Misiones",2019,13,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,13,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",4,"De 2 a 4 años",2
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",9,"De 25 a 34 años",4
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",10,"De 35 a 44 años",3
+63,"Iguazu",54,"Misiones",2019,14,"Dengue",10,"De 45 a 64 años",2
+63,"Iguazu",54,"Misiones",2019,15,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,15,"Dengue",7,"De 15 a 19 años",3
+63,"Iguazu",54,"Misiones",2019,15,"Dengue",9,"De 25 a 34 años",2
+63,"Iguazu",54,"Misiones",2019,15,"Dengue",10,"De 35 a 44 años",1
+63,"Iguazu",54,"Misiones",2019,15,"Dengue",10,"De 45 a 64 años",3
+63,"Iguazu",54,"Misiones",2019,16,"Dengue",8,"De 20 a 24 años",1
+63,"Iguazu",54,"Misiones",2019,16,"Dengue",10,"De 35 a 44 años",1
+63,"Iguazu",54,"Misiones",2019,17,"Dengue",10,"De 45 a 64 años",1
+63,"Iguazu",54,"Misiones",2019,18,"Dengue",6,"De 10 a 14 años",1
+63,"Iguazu",54,"Misiones",2019,19,"Dengue",8,"De 20 a 24 años",1
+7,"Anta",66,"Salta",2019,13,"Dengue",12,"Sin Especificar",1
+7,"Anta",66,"Salta",2019,15,"Dengue",10,"De 35 a 44 años",1
+7,"Anta",66,"Salta",2019,16,"Dengue",9,"De 25 a 34 años",1
+7,"Anta",66,"Salta",2019,16,"Dengue",10,"De 35 a 44 años",1
+7,"Anta",66,"Salta",2019,16,"Dengue",5,"De 5 a 9 años",1
+7,"Anta",66,"Salta",2019,17,"Dengue",7,"De 15 a 19 años",1
+7,"Anta",66,"Salta",2019,17,"Dengue",8,"De 20 a 24 años",1
+7,"Anta",66,"Salta",2019,17,"Dengue",9,"De 25 a 34 años",1
+7,"Anta",66,"Salta",2019,17,"Dengue",10,"De 45 a 64 años",1
+7,"Anta",66,"Salta",2019,18,"Dengue",6,"De 10 a 14 años",1
+7,"Anta",66,"Salta",2019,18,"Dengue",7,"De 15 a 19 años",2
+7,"Anta",66,"Salta",2019,18,"Dengue",4,"De 2 a 4 años",2
+7,"Anta",66,"Salta",2019,18,"Dengue",8,"De 20 a 24 años",2
+7,"Anta",66,"Salta",2019,18,"Dengue",10,"De 35 a 44 años",1
+7,"Anta",66,"Salta",2019,18,"Dengue",10,"De 45 a 64 años",2
+7,"Anta",66,"Salta",2019,19,"Dengue",7,"De 15 a 19 años",1
+7,"Anta",66,"Salta",2019,19,"Dengue",4,"De 2 a 4 años",1
+7,"Anta",66,"Salta",2019,19,"Dengue",8,"De 20 a 24 años",2
+7,"Anta",66,"Salta",2019,19,"Dengue",10,"De 35 a 44 años",1
+7,"Anta",66,"Salta",2019,19,"Dengue",10,"De 45 a 64 años",3
+7,"Anta",66,"Salta",2019,19,"Dengue",5,"De 5 a 9 años",1
+7,"Anta",66,"Salta",2019,19,"Dengue",11,"Mayor o igual de 65 años",1
+7,"Anta",66,"Salta",2019,20,"Dengue",10,"De 35 a 44 años",2
+7,"Anta",66,"Salta",2019,21,"Dengue",6,"De 10 a 14 años",1
+7,"Anta",66,"Salta",2019,21,"Dengue",10,"De 45 a 64 años",1
+7,"Anta",66,"Salta",2019,22,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",66,"Salta",2019,4,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",66,"Salta",2019,6,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",66,"Salta",2019,10,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",66,"Salta",2019,11,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",66,"Salta",2019,13,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",66,"Salta",2019,15,"Dengue",7,"De 15 a 19 años",1
+28,"Capital",66,"Salta",2019,16,"Dengue",9,"De 25 a 34 años",1
+28,"Capital",66,"Salta",2019,17,"Dengue",6,"De 10 a 14 años",1
+28,"Capital",66,"Salta",2019,17,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",66,"Salta",2019,18,"Dengue",7,"De 15 a 19 años",1
+28,"Capital",66,"Salta",2019,18,"Dengue",9,"De 25 a 34 años",2
+28,"Capital",66,"Salta",2019,18,"Dengue",10,"De 45 a 64 años",1
+28,"Capital",66,"Salta",2019,19,"Dengue",10,"De 35 a 44 años",1
+28,"Capital",66,"Salta",2019,19,"Dengue",10,"De 45 a 64 años",2
+28,"Capital",66,"Salta",2019,20,"Dengue",8,"De 20 a 24 años",1
+28,"Capital",66,"Salta",2019,22,"Dengue",10,"De 45 a 64 años",1
+35,"Cerrillos",66,"Salta",2019,20,"Dengue",10,"De 35 a 44 años",1
+49,"General Guemes",66,"Salta",2019,7,"Dengue",10,"De 35 a 44 años",1
+49,"General Guemes",66,"Salta",2019,8,"Dengue",7,"De 15 a 19 años",1
+49,"General Guemes",66,"Salta",2019,15,"Dengue",11,"Mayor o igual de 65 años",1
+49,"General Guemes",66,"Salta",2019,19,"Dengue",6,"De 10 a 14 años",1
+49,"General Guemes",66,"Salta",2019,23,"Dengue",9,"De 25 a 34 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,3,"Dengue",7,"De 15 a 19 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,3,"Dengue",8,"De 20 a 24 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,3,"Dengue",10,"De 45 a 64 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,4,"Dengue",7,"De 15 a 19 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,4,"Dengue",9,"De 25 a 34 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,4,"Dengue",10,"De 35 a 44 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,4,"Dengue",10,"De 45 a 64 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",6,"De 10 a 14 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",7,"De 15 a 19 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",8,"De 20 a 24 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",9,"De 25 a 34 años",5
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,5,"Dengue",10,"De 45 a 64 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",6,"De 10 a 14 años",7
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",7,"De 15 a 19 años",9
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",4,"De 2 a 4 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",8,"De 20 a 24 años",8
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",9,"De 25 a 34 años",11
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",10,"De 35 a 44 años",6
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",10,"De 45 a 64 años",8
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",5,"De 5 a 9 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,6,"Dengue",11,"Mayor o igual de 65 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",7,"De 15 a 19 años",9
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",4,"De 2 a 4 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",8,"De 20 a 24 años",5
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",9,"De 25 a 34 años",4
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",10,"De 35 a 44 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,7,"Dengue",10,"De 45 a 64 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,8,"Dengue",8,"De 20 a 24 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,8,"Dengue",9,"De 25 a 34 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,8,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,9,"Dengue",9,"De 25 a 34 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,10,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,10,"Dengue",9,"De 25 a 34 años",4
+56,"Grl. Jose de San Martin",66,"Salta",2019,10,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,10,"Dengue",10,"De 45 a 64 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,10,"Dengue",5,"De 5 a 9 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,11,"Dengue",6,"De 10 a 14 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,11,"Dengue",7,"De 15 a 19 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,11,"Dengue",8,"De 20 a 24 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,11,"Dengue",9,"De 25 a 34 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,11,"Dengue",10,"De 45 a 64 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,12,"Dengue",10,"De 45 a 64 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,13,"Dengue",7,"De 15 a 19 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,13,"Dengue",9,"De 25 a 34 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,14,"Dengue",8,"De 20 a 24 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,14,"Dengue",10,"De 45 a 64 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,15,"Dengue",7,"De 15 a 19 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,15,"Dengue",8,"De 20 a 24 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,15,"Dengue",9,"De 25 a 34 años",4
+56,"Grl. Jose de San Martin",66,"Salta",2019,16,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,16,"Dengue",10,"De 35 a 44 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,16,"Dengue",10,"De 45 a 64 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,16,"Dengue",5,"De 5 a 9 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,16,"Dengue",11,"Mayor o igual de 65 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,17,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,17,"Dengue",7,"De 15 a 19 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,17,"Dengue",9,"De 25 a 34 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,17,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,17,"Dengue",5,"De 5 a 9 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",4,"De 2 a 4 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",8,"De 20 a 24 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",9,"De 25 a 34 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",10,"De 45 a 64 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,18,"Dengue",1,"Menor que 1 año",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",8,"De 20 a 24 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",9,"De 25 a 34 años",3
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",10,"De 35 a 44 años",4
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",10,"De 45 a 64 años",4
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",5,"De 5 a 9 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,19,"Dengue",1,"Menor que 1 año",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",6,"De 10 a 14 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",7,"De 15 a 19 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",8,"De 20 a 24 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",9,"De 25 a 34 años",5
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",10,"De 35 a 44 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,20,"Dengue",5,"De 5 a 9 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,21,"Dengue",6,"De 10 a 14 años",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,21,"Dengue",3,"De 13 a 24 meses",1
+56,"Grl. Jose de San Martin",66,"Salta",2019,21,"Dengue",10,"De 35 a 44 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,21,"Dengue",10,"De 45 a 64 años",2
+56,"Grl. Jose de San Martin",66,"Salta",2019,23,"Dengue",5,"De 5 a 9 años",1
+126,"Oran",66,"Salta",2019,3,"Dengue",8,"De 20 a 24 años",1
+126,"Oran",66,"Salta",2019,4,"Dengue",8,"De 20 a 24 años",1
+126,"Oran",66,"Salta",2019,4,"Dengue",10,"De 45 a 64 años",3
+126,"Oran",66,"Salta",2019,5,"Dengue",7,"De 15 a 19 años",3
+126,"Oran",66,"Salta",2019,5,"Dengue",8,"De 20 a 24 años",2
+126,"Oran",66,"Salta",2019,5,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,5,"Dengue",10,"De 35 a 44 años",1
+126,"Oran",66,"Salta",2019,5,"Dengue",10,"De 45 a 64 años",2
+126,"Oran",66,"Salta",2019,5,"Dengue",11,"Mayor o igual de 65 años",1
+126,"Oran",66,"Salta",2019,6,"Dengue",7,"De 15 a 19 años",1
+126,"Oran",66,"Salta",2019,6,"Dengue",9,"De 25 a 34 años",2
+126,"Oran",66,"Salta",2019,6,"Dengue",10,"De 35 a 44 años",1
+126,"Oran",66,"Salta",2019,6,"Dengue",10,"De 45 a 64 años",1
+126,"Oran",66,"Salta",2019,6,"Dengue",11,"Mayor o igual de 65 años",1
+126,"Oran",66,"Salta",2019,7,"Dengue",6,"De 10 a 14 años",1
+126,"Oran",66,"Salta",2019,7,"Dengue",7,"De 15 a 19 años",1
+126,"Oran",66,"Salta",2019,7,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,7,"Dengue",10,"De 35 a 44 años",1
+126,"Oran",66,"Salta",2019,7,"Dengue",10,"De 45 a 64 años",1
+126,"Oran",66,"Salta",2019,8,"Dengue",8,"De 20 a 24 años",1
+126,"Oran",66,"Salta",2019,8,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,8,"Dengue",10,"De 35 a 44 años",4
+126,"Oran",66,"Salta",2019,8,"Dengue",10,"De 45 a 64 años",3
+126,"Oran",66,"Salta",2019,9,"Dengue",7,"De 15 a 19 años",1
+126,"Oran",66,"Salta",2019,9,"Dengue",8,"De 20 a 24 años",1
+126,"Oran",66,"Salta",2019,9,"Dengue",10,"De 35 a 44 años",1
+126,"Oran",66,"Salta",2019,9,"Dengue",10,"De 45 a 64 años",2
+126,"Oran",66,"Salta",2019,10,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,10,"Dengue",11,"Mayor o igual de 65 años",1
+126,"Oran",66,"Salta",2019,13,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,15,"Dengue",10,"De 45 a 64 años",1
+126,"Oran",66,"Salta",2019,16,"Dengue",6,"De 10 a 14 años",1
+126,"Oran",66,"Salta",2019,17,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,18,"Dengue",7,"De 15 a 19 años",1
+126,"Oran",66,"Salta",2019,19,"Dengue",8,"De 20 a 24 años",1
+126,"Oran",66,"Salta",2019,19,"Dengue",9,"De 25 a 34 años",1
+126,"Oran",66,"Salta",2019,19,"Dengue",5,"De 5 a 9 años",1
+126,"Oran",66,"Salta",2019,20,"Dengue",10,"De 45 a 64 años",1
+126,"Oran",66,"Salta",2019,21,"Dengue",10,"De 35 a 44 años",2
+126,"Oran",66,"Salta",2019,21,"Dengue",10,"De 45 a 64 años",1
+133,"Rivadavia",66,"Salta",2019,2,"Dengue",6,"De 10 a 14 años",1
+133,"Rivadavia",66,"Salta",2019,4,"Dengue",5,"De 5 a 9 años",1
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",7,"De 15 a 19 años",3
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",8,"De 20 a 24 años",3
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",9,"De 25 a 34 años",1
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",10,"De 35 a 44 años",1
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",10,"De 45 a 64 años",2
+133,"Rivadavia",66,"Salta",2019,5,"Dengue",5,"De 5 a 9 años",2
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",6,"De 10 a 14 años",1
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",7,"De 15 a 19 años",1
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",4,"De 2 a 4 años",1
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",8,"De 20 a 24 años",1
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",9,"De 25 a 34 años",2
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",10,"De 35 a 44 años",2
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",10,"De 45 a 64 años",2
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",5,"De 5 a 9 años",3
+133,"Rivadavia",66,"Salta",2019,6,"Dengue",11,"Mayor o igual de 65 años",1
+133,"Rivadavia",66,"Salta",2019,7,"Dengue",11,"Mayor o igual de 65 años",1
+133,"Rivadavia",66,"Salta",2019,8,"Dengue",7,"De 15 a 19 años",1
+133,"Rivadavia",66,"Salta",2019,8,"Dengue",10,"De 35 a 44 años",1
+133,"Rivadavia",66,"Salta",2019,14,"Dengue",10,"De 45 a 64 años",1
+133,"Rivadavia",66,"Salta",2019,15,"Dengue",9,"De 25 a 34 años",1
+133,"Rivadavia",66,"Salta",2019,16,"Dengue",8,"De 20 a 24 años",1
+133,"Rivadavia",66,"Salta",2019,18,"Dengue",8,"De 20 a 24 años",1
+133,"Rivadavia",66,"Salta",2019,19,"Dengue",8,"De 20 a 24 años",2
+133,"Rivadavia",66,"Salta",2019,20,"Dengue",7,"De 15 a 19 años",1
+133,"Rivadavia",66,"Salta",2019,20,"Dengue",8,"De 20 a 24 años",1
+133,"Rivadavia",66,"Salta",2019,21,"Dengue",6,"De 10 a 14 años",1
+147,"Rosario de Lerma",66,"Salta",2019,17,"Dengue",9,"De 25 a 34 años",1
+147,"Rosario de Lerma",66,"Salta",2019,20,"Dengue",8,"De 20 a 24 años",1
+161,"Santa Victoria",66,"Salta",2019,6,"Dengue",9,"De 25 a 34 años",1
+21,"Castellanos",82,"Santa Fe",2019,4,"Dengue",10,"De 45 a 64 años",1
+35,"Garay",82,"Santa Fe",2019,13,"Dengue",10,"De 45 a 64 años",1
+35,"Garay",82,"Santa Fe",2019,14,"Dengue",10,"De 35 a 44 años",1
+35,"Garay",82,"Santa Fe",2019,14,"Dengue",10,"De 45 a 64 años",1
+35,"Garay",82,"Santa Fe",2019,15,"Dengue",10,"De 35 a 44 años",1
+49,"General Obligado",82,"Santa Fe",2019,6,"Dengue",8,"De 20 a 24 años",1
+49,"General Obligado",82,"Santa Fe",2019,6,"Dengue",10,"De 35 a 44 años",1
+49,"General Obligado",82,"Santa Fe",2019,9,"Dengue",8,"De 20 a 24 años",1
+49,"General Obligado",82,"Santa Fe",2019,17,"Dengue",11,"Mayor o igual de 65 años",1
+49,"General Obligado",82,"Santa Fe",2019,20,"Dengue",10,"De 45 a 64 años",1
+63,"La Capital",82,"Santa Fe",2019,2,"Dengue",9,"De 25 a 34 años",3
+63,"La Capital",82,"Santa Fe",2019,3,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,3,"Dengue",10,"De 45 a 64 años",1
+63,"La Capital",82,"Santa Fe",2019,4,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,4,"Dengue",10,"De 35 a 44 años",2
+63,"La Capital",82,"Santa Fe",2019,4,"Dengue",10,"De 45 a 64 años",2
+63,"La Capital",82,"Santa Fe",2019,4,"Dengue",11,"Mayor o igual de 65 años",4
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",8,"De 20 a 24 años",2
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",10,"De 45 a 64 años",3
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,5,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",6,"De 10 a 14 años",2
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",9,"De 25 a 34 años",2
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",10,"De 35 a 44 años",2
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",10,"De 45 a 64 años",2
+63,"La Capital",82,"Santa Fe",2019,6,"Dengue",11,"Mayor o igual de 65 años",2
+63,"La Capital",82,"Santa Fe",2019,7,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,7,"Dengue",8,"De 20 a 24 años",2
+63,"La Capital",82,"Santa Fe",2019,7,"Dengue",9,"De 25 a 34 años",2
+63,"La Capital",82,"Santa Fe",2019,7,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,7,"Dengue",10,"De 45 a 64 años",5
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",7,"De 15 a 19 años",2
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",8,"De 20 a 24 años",3
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",10,"De 35 a 44 años",6
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",10,"De 45 a 64 años",4
+63,"La Capital",82,"Santa Fe",2019,8,"Dengue",11,"Mayor o igual de 65 años",2
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",9,"De 25 a 34 años",3
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",10,"De 45 a 64 años",4
+63,"La Capital",82,"Santa Fe",2019,9,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",6,"De 10 a 14 años",2
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",9,"De 25 a 34 años",3
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",10,"De 35 a 44 años",4
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",10,"De 45 a 64 años",9
+63,"La Capital",82,"Santa Fe",2019,10,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",6,"De 10 a 14 años",3
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",7,"De 15 a 19 años",5
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",8,"De 20 a 24 años",2
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",9,"De 25 a 34 años",8
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",10,"De 35 a 44 años",2
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",10,"De 45 a 64 años",3
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",5,"De 5 a 9 años",2
+63,"La Capital",82,"Santa Fe",2019,11,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",6,"De 10 a 14 años",2
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",4,"De 2 a 4 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",8,"De 20 a 24 años",5
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",9,"De 25 a 34 años",2
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",10,"De 45 a 64 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,12,"Dengue",11,"Mayor o igual de 65 años",3
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",7,"De 15 a 19 años",6
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",8,"De 20 a 24 años",4
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",9,"De 25 a 34 años",4
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",10,"De 35 a 44 años",6
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",10,"De 45 a 64 años",9
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,13,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",7,"De 15 a 19 años",3
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",4,"De 2 a 4 años",1
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",8,"De 20 a 24 años",6
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",9,"De 25 a 34 años",6
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",10,"De 35 a 44 años",7
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",10,"De 45 a 64 años",9
+63,"La Capital",82,"Santa Fe",2019,14,"Dengue",11,"Mayor o igual de 65 años",3
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",6,"De 10 a 14 años",2
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",7,"De 15 a 19 años",2
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",4,"De 2 a 4 años",1
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",8,"De 20 a 24 años",6
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",9,"De 25 a 34 años",5
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",10,"De 35 a 44 años",9
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",10,"De 45 a 64 años",10
+63,"La Capital",82,"Santa Fe",2019,15,"Dengue",11,"Mayor o igual de 65 años",3
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",7,"De 15 a 19 años",3
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",8,"De 20 a 24 años",8
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",9,"De 25 a 34 años",8
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",10,"De 35 a 44 años",7
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",10,"De 45 a 64 años",10
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,16,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",9,"De 25 a 34 años",2
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",10,"De 35 a 44 años",2
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",10,"De 45 a 64 años",7
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",5,"De 5 a 9 años",1
+63,"La Capital",82,"Santa Fe",2019,17,"Dengue",11,"Mayor o igual de 65 años",8
+63,"La Capital",82,"Santa Fe",2019,18,"Dengue",8,"De 20 a 24 años",2
+63,"La Capital",82,"Santa Fe",2019,18,"Dengue",9,"De 25 a 34 años",2
+63,"La Capital",82,"Santa Fe",2019,18,"Dengue",10,"De 35 a 44 años",3
+63,"La Capital",82,"Santa Fe",2019,18,"Dengue",10,"De 45 a 64 años",5
+63,"La Capital",82,"Santa Fe",2019,18,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",7,"De 15 a 19 años",2
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",9,"De 25 a 34 años",4
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",10,"De 45 a 64 años",7
+63,"La Capital",82,"Santa Fe",2019,19,"Dengue",11,"Mayor o igual de 65 años",1
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",7,"De 15 a 19 años",1
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",8,"De 20 a 24 años",5
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",10,"De 45 a 64 años",4
+63,"La Capital",82,"Santa Fe",2019,20,"Dengue",11,"Mayor o igual de 65 años",4
+63,"La Capital",82,"Santa Fe",2019,21,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,21,"Dengue",8,"De 20 a 24 años",2
+63,"La Capital",82,"Santa Fe",2019,21,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,21,"Dengue",10,"De 35 a 44 años",1
+63,"La Capital",82,"Santa Fe",2019,22,"Dengue",6,"De 10 a 14 años",1
+63,"La Capital",82,"Santa Fe",2019,22,"Dengue",9,"De 25 a 34 años",1
+63,"La Capital",82,"Santa Fe",2019,22,"Dengue",10,"De 45 a 64 años",2
+70,"Las Colonias",82,"Santa Fe",2019,11,"Dengue",10,"De 35 a 44 años",1
+70,"Las Colonias",82,"Santa Fe",2019,14,"Dengue",10,"De 45 a 64 años",1
+70,"Las Colonias",82,"Santa Fe",2019,17,"Dengue",7,"De 15 a 19 años",1
+70,"Las Colonias",82,"Santa Fe",2019,17,"Dengue",10,"De 45 a 64 años",1
+77,"9 de Julio",82,"Santa Fe",2019,14,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,3,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2019,4,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,5,"Dengue",6,"De 10 a 14 años",2
+84,"Rosario",82,"Santa Fe",2019,5,"Dengue",7,"De 15 a 19 años",1
+84,"Rosario",82,"Santa Fe",2019,5,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,5,"Dengue",10,"De 45 a 64 años",4
+84,"Rosario",82,"Santa Fe",2019,6,"Dengue",7,"De 15 a 19 años",1
+84,"Rosario",82,"Santa Fe",2019,6,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,6,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2019,6,"Dengue",5,"De 5 a 9 años",1
+84,"Rosario",82,"Santa Fe",2019,6,"Dengue",11,"Mayor o igual de 65 años",3
+84,"Rosario",82,"Santa Fe",2019,7,"Dengue",7,"De 15 a 19 años",1
+84,"Rosario",82,"Santa Fe",2019,7,"Dengue",4,"De 2 a 4 años",1
+84,"Rosario",82,"Santa Fe",2019,7,"Dengue",9,"De 25 a 34 años",2
+84,"Rosario",82,"Santa Fe",2019,7,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,7,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",6,"De 10 a 14 años",1
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",7,"De 15 a 19 años",2
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",8,"De 20 a 24 años",2
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",9,"De 25 a 34 años",3
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",10,"De 35 a 44 años",4
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",10,"De 45 a 64 años",2
+84,"Rosario",82,"Santa Fe",2019,8,"Dengue",5,"De 5 a 9 años",1
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",6,"De 10 a 14 años",2
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",7,"De 15 a 19 años",4
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",4,"De 2 a 4 años",1
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",10,"De 35 a 44 años",3
+84,"Rosario",82,"Santa Fe",2019,9,"Dengue",5,"De 5 a 9 años",2
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",6,"De 10 a 14 años",1
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",9,"De 25 a 34 años",1
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2019,10,"Dengue",5,"De 5 a 9 años",1
+84,"Rosario",82,"Santa Fe",2019,11,"Dengue",6,"De 10 a 14 años",2
+84,"Rosario",82,"Santa Fe",2019,11,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,11,"Dengue",9,"De 25 a 34 años",1
+84,"Rosario",82,"Santa Fe",2019,11,"Dengue",10,"De 45 a 64 años",2
+84,"Rosario",82,"Santa Fe",2019,11,"Dengue",5,"De 5 a 9 años",1
+84,"Rosario",82,"Santa Fe",2019,13,"Dengue",6,"De 10 a 14 años",1
+84,"Rosario",82,"Santa Fe",2019,13,"Dengue",10,"De 35 a 44 años",2
+84,"Rosario",82,"Santa Fe",2019,14,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,14,"Dengue",10,"De 35 a 44 años",2
+84,"Rosario",82,"Santa Fe",2019,14,"Dengue",10,"De 45 a 64 años",3
+84,"Rosario",82,"Santa Fe",2019,15,"Dengue",6,"De 10 a 14 años",1
+84,"Rosario",82,"Santa Fe",2019,15,"Dengue",7,"De 15 a 19 años",1
+84,"Rosario",82,"Santa Fe",2019,15,"Dengue",9,"De 25 a 34 años",1
+84,"Rosario",82,"Santa Fe",2019,15,"Dengue",10,"De 45 a 64 años",2
+84,"Rosario",82,"Santa Fe",2019,15,"Dengue",11,"Mayor o igual de 65 años",1
+84,"Rosario",82,"Santa Fe",2019,16,"Dengue",6,"De 10 a 14 años",1
+84,"Rosario",82,"Santa Fe",2019,16,"Dengue",9,"De 25 a 34 años",2
+84,"Rosario",82,"Santa Fe",2019,16,"Dengue",10,"De 35 a 44 años",1
+84,"Rosario",82,"Santa Fe",2019,16,"Dengue",10,"De 45 a 64 años",3
+84,"Rosario",82,"Santa Fe",2019,17,"Dengue",9,"De 25 a 34 años",3
+84,"Rosario",82,"Santa Fe",2019,17,"Dengue",10,"De 45 a 64 años",1
+84,"Rosario",82,"Santa Fe",2019,17,"Dengue",5,"De 5 a 9 años",1
+84,"Rosario",82,"Santa Fe",2019,18,"Dengue",8,"De 20 a 24 años",1
+84,"Rosario",82,"Santa Fe",2019,19,"Dengue",9,"De 25 a 34 años",1
+84,"Rosario",82,"Santa Fe",2019,20,"Dengue",10,"De 45 a 64 años",1
+91,"San Cristobal",82,"Santa Fe",2019,13,"Dengue",10,"De 35 a 44 años",1
+105,"San Jeronimo",82,"Santa Fe",2019,15,"Dengue",10,"De 45 a 64 años",1
+49,"Capital",86,"Santiago del Estero",2019,5,"Dengue",6,"De 10 a 14 años",1
+49,"Capital",86,"Santiago del Estero",2019,17,"Dengue",9,"De 25 a 34 años",1
+161,"Robles",86,"Santiago del Estero",2019,14,"Dengue",10,"De 35 a 44 años",1
+84,"Capital",90,"Tucumán",2019,13,"Dengue",9,"De 25 a 34 años",1
